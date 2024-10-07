@@ -7,6 +7,7 @@
 4. Open-World Test-Time Training: Self-Training with Contrast Learning [pdf](https://arxiv.org/pdf/2409.09591)
 5. Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach [pdf](https://arxiv.org/pdf/2408.07511)
 6. Efficient Test-Time Prompt Tuning for Vision-Language Models [pdf](https://arxiv.org/pdf/2408.05775)
+7. Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models [pdf](https://arxiv.org/pdf/2407.15913)
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)
@@ -21,6 +22,8 @@
 3. Training Language Models to Self-Correct via Reinforcement Learning [pdf](https://arxiv.org/pdf/2409.12917)
 4. MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning [pdf](https://arxiv.org/pdf/2409.12147)
 5. Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling [pdf](https://arxiv.org/pdf/2408.17017)
+6. Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters [pdf](https://arxiv.org/pdf/2408.03314)
+7. Recursive Introspection: Teaching Language Model Agents How to Self-Improve [pdf](https://arxiv.org/pdf/2407.18219)
 
 
 ### Application

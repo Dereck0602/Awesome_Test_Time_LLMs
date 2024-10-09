@@ -31,6 +31,7 @@
 6. Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters [pdf](https://arxiv.org/pdf/2408.03314)
 7. Recursive Introspection: Teaching Language Model Agents How to Self-Improve [pdf](https://arxiv.org/pdf/2407.18219)
 8. Composable Interventions for Language Models [pdf](https://arxiv.org/pdf/2407.06483)
+9. Large Language Monkeys: Scaling Inference Compute with Repeated Sampling [pdf](https://arxiv.org/pdf/2407.21787)
 
 
 ### Application

@@ -1,5 +1,5 @@
 ## Test-time Adaptation
-1. Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning [arxiv 2024.10.15] [pdf](https://arxiv.org/pdf/2410.00382)
+1. Test-Time Training with Self-Supervision for Generalization under Distribution Shifts [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231) ！
 2. DOTA: Distributional Test-Time Adaptation of Vision-Language Models [arxiv 2024.9.28] [pdf](https://arxiv.org/pdf/2409.19375)
 3. Test-Time Augmentation Meets Variational Bayes [arxiv 2024.9.19] [pdf](https://arxiv.org/pdf/2409.12587)
 4. Open-World Test-Time Training: Self-Training with Contrast Learning [arxiv 2024.9.15] [pdf](https://arxiv.org/pdf/2409.09591)

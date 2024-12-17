@@ -30,7 +30,8 @@
 28. Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time [arxiv 2022.7.1] [pdf](https://arxiv.org/pdf/2203.05482)
 29. Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study [EMNLP 2022] [pdf](https://aclanthology.org/2022.findings-emnlp.460.pdf)
 ### Modifying the Input
-1. 
+1. What Makes Good In-Context Examples for GPT-3? [DeeLIO 2022] [pdf](https://aclanthology.org/2022.deelio-1.10.pdf)
+2. 
 
 
 ### Other application

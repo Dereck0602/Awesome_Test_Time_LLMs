@@ -22,19 +22,9 @@
 5. CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation (3D cloud point) [pdf](https://arxiv.org/pdf/2407.16193)
 
 ## Test-time Reasoning
-### Method
-1. Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning [pdf](https://arxiv.org/pdf/2410.02052)
-2. Archon: An Architecture Search Framework for Inference-Time Techniques [pdf](https://arxiv.org/pdf/2409.15254)
-3. Training Language Models to Self-Correct via Reinforcement Learning [pdf](https://arxiv.org/pdf/2409.12917)
-4. MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning [pdf](https://arxiv.org/pdf/2409.12147)
-5. Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling [pdf](https://arxiv.org/pdf/2408.17017)
-6. Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters [pdf](https://arxiv.org/pdf/2408.03314)
-7. Recursive Introspection: Teaching Language Model Agents How to Self-Improve [pdf](https://arxiv.org/pdf/2407.18219)
-8. Composable Interventions for Language Models [pdf](https://arxiv.org/pdf/2407.06483)
-9. Large Language Monkeys: Scaling Inference Compute with Repeated Sampling [pdf](https://arxiv.org/pdf/2407.21787)
+### Reapted sampling
 
+####  Verification strategy
 
-### Application
-1. CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL [pdf](https://arxiv.org/pdf/2410.01943)
-2. MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines [pdf](https://arxiv.org/pdf/2409.12959)
-3. Lean-STaR: Learning to Interleave Thinking and Proving (proving) [pdf](https://arxiv.org/pdf/2407.10040)
+### Self-correction
+

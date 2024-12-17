@@ -9,8 +9,8 @@
 8. The Entropy Enigma: Success and Failure of Entropy Minimization [arxiv 2024.5.12] [pdf](https://arxiv.org/pdf/2405.05012)
 9. On Pitfalls of Test-Time Adaptation [arxiv 2023.6.6] [pdf](https://arxiv.org/pdf/2306.03536)
 10. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.803.pdf)
-11. Adaptive Cascading Network for Continual Test-Time Adaptation [arxiv 2024.7.17] [pdf](https://arxiv.org/pdf/2407.12240)
-12. OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation [arxiv 2024.9.10] [pdf](https://arxiv.org/pdf/2407.09498)
+11. Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization [arxiv 2024.1.11] [pdf](https://arxiv.org/pdf/2311.01459)
+12. Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach [arxiv 2024.8.14] [pdf](https://arxiv.org/pdf/2408.07511)
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)

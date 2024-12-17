@@ -37,7 +37,9 @@
 4. Making Language Models Better Reasoners with Step-Aware Verifier [acl 2023.7] [pdf](https://aclanthology.org/2023.acl-long.291.pdf)
 5. Accelerating Best-of-N via Speculative Rejection [ICML 2024.6] [pdf](https://openreview.net/pdf?id=dRp8tAIPhj)
 6. TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.16033)
-7. 
+7. Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.02725)
+### Verifier training 
+1.
 
 ### Self-correction
 

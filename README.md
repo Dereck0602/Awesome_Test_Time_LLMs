@@ -23,8 +23,7 @@
 
 ## Test-time Reasoning
 ### Reapted sampling
-
-####  Verification strategy
+1. Competition-level code generation with alphacode [arvix 2022.2] [pdf](https://arxiv.org/pdf/2203.07814)
 
 ### Self-correction
 

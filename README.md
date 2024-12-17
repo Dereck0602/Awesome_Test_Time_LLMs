@@ -1,7 +1,7 @@
 ## Test-time Adaptation
-1. Test-Time Training with Self-Supervision for Generalization under Distribution Shifts [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231) ！
-2. DOTA: Distributional Test-Time Adaptation of Vision-Language Models [arxiv 2024.9.28] [pdf](https://arxiv.org/pdf/2409.19375)
-3. Test-Time Augmentation Meets Variational Bayes [arxiv 2024.9.19] [pdf](https://arxiv.org/pdf/2409.12587)
+1. Test-Time Training with Self-Supervision for Generalization under Distribution Shifts [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231)
+2. MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption [arxiv 2022.1.20] [pdf](https://arxiv.org/pdf/2103.16201)
+3. Test-Time Training with Masked Autoencoders [arxiv 2022.9.15] [pdf](https://arxiv.org/pdf/2209.07522)
 4. Open-World Test-Time Training: Self-Training with Contrast Learning [arxiv 2024.9.15] [pdf](https://arxiv.org/pdf/2409.09591)
 5. Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach [arxiv 2024.8.14] [pdf](https://arxiv.org/pdf/2408.07511)
 6. Efficient Test-Time Prompt Tuning for Vision-Language Models [arxiv 2024.8.11] [pdf](https://arxiv.org/pdf/2408.05775)

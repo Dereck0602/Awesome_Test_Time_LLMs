@@ -1,4 +1,5 @@
 ## Test-time Adaptation
+### Updating the Model
 1. Test-Time Training with Self-Supervision for Generalization under Distribution Shifts [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231)
 2. MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption [arxiv 2022.1.20] [pdf](https://arxiv.org/pdf/2103.16201)
 3. Test-Time Training with Masked Autoencoders [arxiv 2022.9.15] [pdf](https://arxiv.org/pdf/2209.07522)
@@ -28,6 +29,9 @@
 27. SoTTA: Robust Test-Time Adaptation on Noisy Data Streams [arxiv 2023.10.16] [pdf](https://arxiv.org/pdf/2310.10074)
 28. Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time [arxiv 2022.7.1] [pdf](https://arxiv.org/pdf/2203.05482)
 29. Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study [EMNLP 2022] [pdf](https://aclanthology.org/2022.findings-emnlp.460.pdf)
+### Modifying the Input
+1. 
+
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)

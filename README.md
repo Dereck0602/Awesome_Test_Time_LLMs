@@ -15,7 +15,19 @@
 14. Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment [ACL 2022] [pdf](https://aclanthology.org/2022.findings-acl.75.pdf)
 15. Test-time Adaptation for Machine Translation Evaluation by Uncertainty Minimization [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.47.pdf)
 16. COMET: A Neural Framework for MT Evaluation [EMNLP 2020] [pdf](https://aclanthology.org/2020.emnlp-main.213.pdf)
-17. 
+17. Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models [arxiv 2023.5.29] [pdf](https://arxiv.org/pdf/2305.18010)
+18. Improving robustness against common corruptions by covariate shift adaptation [arxiv 2020.10.23] [pdf](https://arxiv.org/pdf/2006.16971)
+19. Selective Annotation Makes Language Models Better Few-Shot Learners [arxiv 2022.9.5] [pdf](https://arxiv.org/pdf/2209.01975)
+20. Test-Time Adaptation with Perturbation Consistency Learning [arxiv 2023.4.25] [pdf](https://arxiv.org/pdf/2304.12764)
+21. Test-Time Prompt Adaptation for Vision-Language Models [NeurIPS 2023] [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/cdd0640218a27e9e2c0e52e324e25db0-Paper-Conference.pdf)
+22. Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning [arxiv 2023.8.17] [pdf](https://arxiv.org/pdf/2308.06038)
+23. Test-Time Model Adaptation with Only Forward Passes [arxiv 2024.5.29] [pdf](https://arxiv.org/pdf/2404.01650)
+24. Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models [arxiv 2024.7.22] [pdf](https://arxiv.org/pdf/2407.15913)
+25. StreamAdapter: Efficient Test Time Adaptation from Contextual Streams [arxiv 2024.11.14] [pdf](https://arxiv.org/pdf/2411.09289)
+26. Towards Stable Test-time Adaptation in Dynamic Wild World [arxiv 2023.2.24] [pdf](https://arxiv.org/pdf/2302.12400)
+27. SoTTA: Robust Test-Time Adaptation on Noisy Data Streams [arxiv 2023.10.16] [pdf](https://arxiv.org/pdf/2310.10074)
+28. Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time [arxiv 2022.7.1] [pdf](https://arxiv.org/pdf/2203.05482)
+29. Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study [EMNLP 2022] [pdf](https://aclanthology.org/2022.findings-emnlp.460.pdf)
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)

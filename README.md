@@ -25,7 +25,7 @@
 ### Reapted sampling
 1. Competition-level code generation with alphacode [arvix 2022.2] [pdf](https://arxiv.org/pdf/2203.07814)
 
-1.sad
+
 
 ### Self-correction
 

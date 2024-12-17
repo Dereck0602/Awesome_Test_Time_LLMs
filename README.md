@@ -6,9 +6,9 @@
 5. Efficient Test-Time Prompt Tuning for Vision-Language Models [arxiv 2024.8.11] [pdf](https://arxiv.org/pdf/2408.05775)
 6. Tent: Fully Test-time Adaptation by Entropy Minimization [arxiv 2021.3.18] [pdf](https://arxiv.org/pdf/2006.10726)
 7. MEMO: Test Time Robustness via Adaptation and Augmentation [arxiv 2022.10.10] [pdf](https://arxiv.org/pdf/2110.09506)
-8. STAMP: Outlier-Aware Test-Time Adaptation with Stable Memory Replay [arxiv 2024.8.27] [pdf](https://arxiv.org/pdf/2407.15773)
-9. Realistic Evaluation of Test-Time Adaptation Algorithms: Unsupervised Hyperparameter Selection [arxiv 2024.7.19] [pdf](https://arxiv.org/pdf/2407.14231)
-10. Temporal Test-Time Adaptation with State-Space Models [arxiv 2024.7.17] [pdf](https://arxiv.org/pdf/2407.12492)
+8. The Entropy Enigma: Success and Failure of Entropy Minimization [arxiv 2024.5.12] [pdf](https://arxiv.org/pdf/2405.05012)
+9. On Pitfalls of Test-Time Adaptation [arxiv 2023.6.6] [pdf](https://arxiv.org/pdf/2306.03536)
+10. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.803.pdf)
 11. Adaptive Cascading Network for Continual Test-Time Adaptation [arxiv 2024.7.17] [pdf](https://arxiv.org/pdf/2407.12240)
 12. OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation [arxiv 2024.9.10] [pdf](https://arxiv.org/pdf/2407.09498)
 

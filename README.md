@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/e67bc108-0e45-4fb7-b231-a02f48e63eb4)# Awesome_Test_Time_LLMs
-
 ## Test-time Adaptation
 1. Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning [arxiv 2024.10.15] [pdf](https://arxiv.org/pdf/2410.00382)
 2. DOTA: Distributional Test-Time Adaptation of Vision-Language Models [pdf](https://arxiv.org/pdf/2409.19375)

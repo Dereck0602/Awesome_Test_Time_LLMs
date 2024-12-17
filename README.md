@@ -23,9 +23,10 @@
 
 ## Test-time Reasoning
 ### Reapted sampling
-1. Competition-level code generation with alphacode [arvix 2022.2] [pdf](https://arxiv.org/pdf/2203.07814)
-
-
+1. Competition-level code generation with alphacode [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814)
+2. Code Llama: Open Foundation Models for Code [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.12950)
+3. More Agents Is All You Need [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.05120)
+4. 
 
 ### Self-correction
 

@@ -11,6 +11,11 @@
 10. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.803.pdf)
 11. Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization [arxiv 2024.1.11] [pdf](https://arxiv.org/pdf/2311.01459)
 12. Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach [arxiv 2024.8.14] [pdf](https://arxiv.org/pdf/2408.07511)
+13. Simulating Bandit Learning from User Feedback for Extractive Question Answering [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.355.pdf)
+14. Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment [ACL 2022] [pdf](https://aclanthology.org/2022.findings-acl.75.pdf)
+15. Test-time Adaptation for Machine Translation Evaluation by Uncertainty Minimization [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.47.pdf)
+16. COMET: A Neural Framework for MT Evaluation [EMNLP 2020] [pdf](https://aclanthology.org/2020.emnlp-main.213.pdf)
+17. 
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)

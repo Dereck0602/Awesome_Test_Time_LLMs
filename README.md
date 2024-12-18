@@ -173,13 +173,29 @@
   * University of Milano-Bicocca CLCG, University of Groningen
 ### Calibrating the Output
 * **Generalization through Memorization: Nearest Neighbor Language Models** [arxiv 2020.2.15] [pdf](https://arxiv.org/pdf/1911.00172)
+  * Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis
+  * Stanford University, Facebook AI Research
 * **Nearest Neighbor Machine Translation** [arxiv 2021.7.22] [pdf](https://arxiv.org/pdf/2010.00710)
-* **Efficient Cluster-Based k-Nearest-Neighbor Machine Translation** [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.154.pdf)
+  * Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis
+  * Stanford University, Facebook AI Research
+* **Efficient Cluster-Based k-Nearest-Neighbor Machine Translation** [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.154.pdf) [github](https://github.com/tjunlp-lab/PCKMT)
+  * Dexin Wang, Kai Fan, Boxing Chen, Deyi Xiong
+  * Tianjin University
 * **What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation** [arxiv 2022.12.20] [pdf](https://arxiv.org/pdf/2211.04052)
-* **Efficient Domain Adaptation for Non-Autoregressive Machine Translation** [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.810.pdf)
-* **kNN-NER: Named Entity Recognition with Nearest Neighbor Search** [arxiv 2022.3.31] [pdf](https://arxiv.org/pdf/2203.17103)
-* **kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers** [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.903.pdf)
-* **AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation** [arxiv 2023.5.10] [pdf](https://arxiv.org/pdf/2304.12566)
+  * Wenhao Zhu, Shujian Huang, Yunzhe Lv, Xin Zheng, Jiajun Chen
+  * National Key Laboratory for Novel Software Technology, Nanjing University, China, Collaborative Innovation Center of Novel Software Technology and Industrialization
+* **Efficient Domain Adaptation for Non-Autoregressive Machine Translation** [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.810.pdf) [github](https://github.com/Moriarty0923/BIKNN)
+  * Pedro Henrique Martins, Zita Marinho, André F. T. Martins
+  * Instituto de Telecomunicações, DeepMind, Institute of Systems and Robotics, LUMLIS (Lisbon ELLIS Unit), Instituto Superior Técnico, Unbabel Lisbon, Portugal
+* **kNN-NER: Named Entity Recognition with Nearest Neighbor Search** [arxiv 2022.3.31] [pdf](https://arxiv.org/pdf/2203.17103) [github](https://github.com/ShannonAI/KNN-NER.)
+  * Shuhe Wang, Xiaoya Li, Yuxian Meng, Tianwei Zhang, Rongbin Ouyang, Jiwei Li, Guoyin Wang
+  * Shannon.AI, Peking University, Nanyang Technological University, Zhejiang University, Amazon Alexa AI
+* **kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers** [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.903.pdf) [github](https://github.com/Bhardwaj-Rishabh/kNN-CM)
+  * Rishabh Bhardwaj, Yingting Li, Navonil Majumder, Bo Cheng, Soujanya Poria
+  * Singapore University of Technology and Design, Singapore, Beijing University of Posts and Telecommunications
+* **AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation** [arxiv 2023.5.10] [pdf](https://arxiv.org/pdf/2304.12566) [github](https://github.com/yfzhang114/AdaNPC)
+  * Yi-Fan Zhang, Xue Wang, Kexin Jin, Kun Yuan, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan
+  * Work done during an internship at Alibaba Group, School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), MAIS, CRIPAC, CASIA, Machine Intelligence Technology, Alibaba Group, Department of Mathematics at Princeton University, Center for Machine Learning Research, Peking University, Work done at Alibaba Group, and now affiliated with Meta., Nanjing University
 
 
 

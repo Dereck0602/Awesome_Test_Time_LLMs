@@ -142,15 +142,35 @@
   * School of Computer Science and Technology, Soochow University, Department of Computer Science and Technology, Tsinghua University
 ### Editing the Representation
 * **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** [arxiv 2022.3.3] [pdf](https://arxiv.org/pdf/1912.02164)
+  * Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu
+  * CMS, Caltech, HKUST, Uber AI
 * **Steering Language Models With Activation Engineering** [arxiv 2024.10.10] [pdf](https://arxiv.org/pdf/2308.10248)
+  * Alexander Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan J. Vazquez, Ulisse Mini, Monte MacDiarmid
+  * MIRI, University of Bristol, MATS
 * **Improving Instruction-Following in Language Models through Activation Steering** [arxiv 2024.10.15] [pdf](https://arxiv.org/pdf/2410.12877)
-* **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [arxiv 2024.6.26] [pdf](https://arxiv.org/pdf/2306.03341)
+  * Alessandro Stolfo, Vidhisha Balachandran, Safoora Yousefi, Eric Horvitz, Besmira Nushi
+  * ETH Zurich, Microsoft Research
+* **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** [arxiv 2024.6.26] [pdf](https://arxiv.org/pdf/2306.03341) [giyhub](https://github.com/likenneth/honest_llama)
+  * Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg
+  * Harvard University
 * **Refusal in Language Models Is Mediated by a Single Direction** [arxiv 2024.10.30] [pdf](https://arxiv.org/pdf/2406.11717)
+  * Andy Arditi, Oscar Obeso, Aaquib Syed, Daniel Paleka, Nina Panickssery, Wes Gurnee, Neel Nanda
+  * ETH Zürich, University of Maryland, MIT
 * **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** [arxiv 2024.2.13] [pdf](https://arxiv.org/pdf/2311.06668)
+  * Sheng Liu, Haotian Ye, Lei Xing, James Zou
+  * Stanford University
 * **Investigating Bias Representations in Llama 2 Chat via Activation Steering** [arxiv 2024.2.1] [pdf](https://arxiv.org/pdf/2402.00402)
+  * Dawn Lu, Nina Rimsky
+  * UC Berkeley, SPAR
 * **Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization** [arxiv 2024.7.29] [pdf](https://arxiv.org/pdf/2406.00045)
+  * Yuanpu Cao, Tianrong Zhang, Bochuan Cao, Ziyi Yin, Lu Lin, Fenglong Ma, Jinghui Chen
+  * The Pennsylvania State University
 * **Spectral Editing of Activations for Large Language Model Alignment** [arxiv 2024.11.3] [pdf](https://arxiv.org/pdf/2405.09719)
+  * Yifu Qiu, Zheng Zhao, Yftah Ziser, Anna Korhonen, Edoardo M. Ponti, Shay B. Cohen
+  * Institute for Language, Cognition and Computation, University of Edinburgh, Language Technology Lab, University of Cambridge
 * **Multi-property Steering of Large Language Models with Dynamic Activation Composition** [BlackboxNLP 2024] [pdf](https://aclanthology.org/2024.blackboxnlp-1.34.pdf)
+  * Daniel Scalena, Gabriele Sarti, Malvina Nissim
+  * University of Milano-Bicocca CLCG, University of Groningen
 ### Calibrating the Output
 * **Generalization through Memorization: Nearest Neighbor Language Models** [arxiv 2020.2.15] [pdf](https://arxiv.org/pdf/1911.00172)
 * **Nearest Neighbor Machine Translation** [arxiv 2021.7.22] [pdf](https://arxiv.org/pdf/2010.00710)
@@ -160,6 +180,8 @@
 * **kNN-NER: Named Entity Recognition with Nearest Neighbor Search** [arxiv 2022.3.31] [pdf](https://arxiv.org/pdf/2203.17103)
 * **kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers** [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.903.pdf)
 * **AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation** [arxiv 2023.5.10] [pdf](https://arxiv.org/pdf/2304.12566)
+
+
 
 
 

@@ -93,21 +93,53 @@
   * Department of Computer Science, National University of Singapore, Soochow University, China
 ### Modifying the Input
 * **What Makes Good In-Context Examples for GPT-3?** [DeeLIO 2022] [pdf](https://aclanthology.org/2022.deelio-1.10.pdf)
+  * Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen
+  * Duke University, Microsoft Dynamics 365 AI, Microsoft Research
 * **In-Context Learning with Iterative Demonstration Selection** [EMNLP 2024] [pdf](https://aclanthology.org/2024.findings-emnlp.438.pdf)
+  * Chengwei Qin, Aston Zhang, Chen Chen, Anirudh Dagar, Wenming Ye
+  * Nanyang Technological University, Amazon Web Services
 * **Dr.ICL: Demonstration-Retrieved In-context Learning** [arxiv 2023.5.23] [pdf](https://arxiv.org/pdf/2305.14128)
+  * Man Luo, Xin Xu, Zhuyun Dai, Panupong Pasupat, Mehran Kazemi, Chitta Baral, Vaiva Imbrasaite, Vincent Y Zhao
+  * Arizona State University, Google Research
 * **Learning To Retrieve Prompts for In-Context Learning** [arxiv 2022.5.8] [pdf](https://arxiv.org/pdf/2112.08633)
+  * Ohad Rubin, Jonathan Herzig, Jonathan Berant
+  * The Blavatnik School of Computer Science, Tel Aviv University
 * **Unified Demonstration Retriever for In-Context Learning** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.256.pdf)
+  * Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang, Xipeng Qiu
+  * Shanghai Key Laboratory of Intelligent Information Processing, Fudan University, School of Computer Science, Fudan University, East China Normal University, Pingan Health Tech
 * **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers** [ACL 2023] [pdf](https://aclanthology.org/2023.findings-acl.247.pdf)
+  * Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei
+  * MOE Key Lab of Computational Linguistics, Peking University, Tsinghua University, Microsoft Research
 * **Finding Support Examples for In-Context Learning** [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.411.pdf)
-* **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning** [arxiv 2024.2.12] [pdf](https://arxiv.org/pdf/2301.11916)
+  * Xiaonan Li, Xipeng Qiu
+  * School of Computer Science, Fudan University, Shanghai Key Laboratory of Intelligent Information Processing, Fudan University
+* **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning** [arxiv 2024.2.12] [pdf](https://arxiv.org/pdf/2301.11916) [github](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)
+  * Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
+  * Department of Computer Science, University of California, Santa Barbara, Department of Cognitive Sciences, University of California, Irvine
 * **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.556.pdf)
+  * Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp
+  * University College London, Mishcon de Reya LLP
 * **Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.79.pdf)
+  * Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong
+  * Shanghai Artificial Intelligence Laboratory, Xiamen University, The University of Hong Kong
 * **RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning** [arxiv 2024.4.16] [pdf](https://arxiv.org/pdf/2305.14502)
+  * Alexander Scarlatos, Andrew Lan
+  * University of Massachusetts Amherst
 * **Automatic Chain of Thought Prompting in Large Language Models** [arxiv 2022.10.7] [pdf](https://arxiv.org/pdf/2210.03493)
+  * Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
+  * Shanghai Jiao Tong University, Amazon Web Services
 * **Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations** [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.968.pdf)
+  * Wei-Lin Chen, Cheng-Kuang Wu, Yun-Nung Chen, Hsin-Hsi Chen
+  * National Taiwan University, Taiwan
 * **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.129.pdf)
+  * Xinxi Lyu, Sewon Min, Iz Beltagy, Luke Zettlemoyer, Hannaneh Hajishirzi
+  * University of Washington, Allen Institute for AI
 * **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator** [arxiv 2022.6.16] [pdf](https://arxiv.org/pdf/2206.08082)
+  * Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee
+  * Seoul National University, Hanyang University, NAVER AI Lab, NAVER CLOVA
 * **Demonstration Augmentation for Zero-shot In-context Learning** [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.846.pdf)
+  * Yi Su, Yunpeng Tai, Yixin Ji, Juntao Li, Bowen Yan, Min Zhang
+  * School of Computer Science and Technology, Soochow University, Department of Computer Science and Technology, Tsinghua University
 ### Editing the Representation
 * **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** [arxiv 2022.3.3] [pdf](https://arxiv.org/pdf/1912.02164)
 * **Steering Language Models With Activation Engineering** [arxiv 2024.10.10] [pdf](https://arxiv.org/pdf/2308.10248)

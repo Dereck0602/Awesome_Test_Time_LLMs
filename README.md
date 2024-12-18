@@ -92,4 +92,10 @@
 19. Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [arxiv 20224.10] [pdf](https://arxiv.org/pdf/2410.08146)
 
 ### Self-correction
-1. 
+1. Reflexion: Language Agents with Verbal Reinforcement Learning [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.11366)
+2. Interscript: A dataset for interactive learning of scripts through error feedback [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.07867)
+3. NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction [ACL 2021] [pdf](https://aclanthology.org/2021.naacl-main.444.pdf)
+4. Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback [ACL 2022] [pdf](https://aclanthology.org/2022.findings-naacl.26.pdf)
+5. CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing [ICLR 2024] [pdf](https://openreview.net/pdf?id=Sx038qxjek)
+6. Teaching Large Language Models to Self-Debug [ICLR 2024] [pdf](https://openreview.net/pdf?id=KuPixIqPiq)
+7. 

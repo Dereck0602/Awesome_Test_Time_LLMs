@@ -5,6 +5,7 @@
 ## Test-time Adaptation
 ### Updating the Model
 * **Test-Time Training with Self-Supervision for Generalization under Distribution Shifts** [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231)
+* Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt
 * **MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption** [arxiv 2022.1.20] [pdf](https://arxiv.org/pdf/2103.16201)
 * **Test-Time Training with Masked Autoencoders** [arxiv 2022.9.15] [pdf](https://arxiv.org/pdf/2209.07522)
 * **TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?** [NeurIPS 2021] [pdf](https://proceedings.neurips.cc/paper_files/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf)

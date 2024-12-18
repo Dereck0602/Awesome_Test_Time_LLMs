@@ -31,7 +31,23 @@
 29. Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study [EMNLP 2022] [pdf](https://aclanthology.org/2022.findings-emnlp.460.pdf)
 ### Modifying the Input
 1. What Makes Good In-Context Examples for GPT-3? [DeeLIO 2022] [pdf](https://aclanthology.org/2022.deelio-1.10.pdf)
-2. 
+2. In-Context Learning with Iterative Demonstration Selection [EMNLP 2024] [pdf](https://aclanthology.org/2024.findings-emnlp.438.pdf)
+3. Dr.ICL: Demonstration-Retrieved In-context Learning [arxiv 2023.5.23] [pdf](https://arxiv.org/pdf/2305.14128)
+4. Learning To Retrieve Prompts for In-Context Learning [arxiv 2022.5.8] [pdf](https://arxiv.org/pdf/2112.08633)
+5. Unified Demonstration Retriever for In-Context Learning [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.256.pdf)
+6. Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers [ACL 2023] [pdf](https://aclanthology.org/2023.findings-acl.247.pdf)
+7. Finding Support Examples for In-Context Learning [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.411.pdf)
+8. Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning [arxiv 2024.2.12] [pdf](https://arxiv.org/pdf/2301.11916)
+9. Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.556.pdf)
+10. Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.79.pdf)
+11. RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning [arxiv 2024.4.16] [pdf](https://arxiv.org/pdf/2305.14502)
+12. Automatic Chain of Thought Prompting in Large Language Models [arxiv 2022.10.7] [pdf](https://arxiv.org/pdf/2210.03493)
+13. Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.968.pdf)
+14. Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.129.pdf)
+15. Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator [arxiv 2022.6.16] [pdf](https://arxiv.org/pdf/2206.08082)
+16. Demonstration Augmentation for Zero-shot In-context Learning [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.846.pdf)
+### Editing the Representation
+
 
 
 ### Other application

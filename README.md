@@ -47,8 +47,25 @@
 15. Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator [arxiv 2022.6.16] [pdf](https://arxiv.org/pdf/2206.08082)
 16. Demonstration Augmentation for Zero-shot In-context Learning [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.846.pdf)
 ### Editing the Representation
-
-
+1. Plug and Play Language Models: A Simple Approach to Controlled Text Generation [arxiv 2022.3.3] [pdf](https://arxiv.org/pdf/1912.02164)
+2. Steering Language Models With Activation Engineering [arxiv 2024.10.10] [pdf](https://arxiv.org/pdf/2308.10248)
+3. Improving Instruction-Following in Language Models through Activation Steering [arxiv 2024.10.15] [pdf](https://arxiv.org/pdf/2410.12877)
+4. Inference-Time Intervention: Eliciting Truthful Answers from a Language Model [arxiv 2024.6.26] [pdf](https://arxiv.org/pdf/2306.03341)
+5. Refusal in Language Models Is Mediated by a Single Direction [arxiv 2024.10.30] [pdf](https://arxiv.org/pdf/2406.11717)
+6. In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering [arxiv 2024.2.13] [pdf](https://arxiv.org/pdf/2311.06668)
+7. Investigating Bias Representations in Llama 2 Chat via Activation Steering [arxiv 2024.2.1] [pdf](https://arxiv.org/pdf/2402.00402)
+8. Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization [arxiv 2024.7.29] [pdf](https://arxiv.org/pdf/2406.00045)
+9. Spectral Editing of Activations for Large Language Model Alignment [arxiv 2024.11.3] [pdf](https://arxiv.org/pdf/2405.09719)
+10. Multi-property Steering of Large Language Models with Dynamic Activation Composition [BlackboxNLP 2024] [pdf](https://aclanthology.org/2024.blackboxnlp-1.34.pdf)
+### Calibrating the Output
+1. Generalization through Memorization: Nearest Neighbor Language Models [arxiv 2020.2.15] [pdf](https://arxiv.org/pdf/1911.00172)
+2. Nearest Neighbor Machine Translation [arxiv 2021.7.22] [pdf](https://arxiv.org/pdf/2010.00710)
+3. Efficient Cluster-Based k-Nearest-Neighbor Machine Translation [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.154.pdf)
+4. What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation [arxiv 2022.12.20] [pdf](https://arxiv.org/pdf/2211.04052)
+5. Efficient Domain Adaptation for Non-Autoregressive Machine Translation [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.810.pdf)
+6. kNN-NER: Named Entity Recognition with Nearest Neighbor Search [arxiv 2022.3.31] [pdf](https://arxiv.org/pdf/2203.17103)
+7. kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.903.pdf)
+8. AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation [arxiv 2023.5.10] [pdf](https://arxiv.org/pdf/2304.12566)
 
 ### Other application
 1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)

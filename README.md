@@ -5,35 +5,92 @@
 ## Test-time Adaptation
 ### Updating the Model
 * **Test-Time Training with Self-Supervision for Generalization under Distribution Shifts** [arxiv 2019.9.29] [pdf](https://arxiv.org/pdf/1909.13231)
-  ○ Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt
+  * Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt
+  * University of California, Berkeley
 * **MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption** [arxiv 2022.1.20] [pdf](https://arxiv.org/pdf/2103.16201)
+  * Alexander Bartler, Andre Bühler, Felix Wiewel, Mario Döbler, Bin Yang
+  * Institute of Signal Processing and System Theory, University of Stuttgart, Germany
 * **Test-Time Training with Masked Autoencoders** [arxiv 2022.9.15] [pdf](https://arxiv.org/pdf/2209.07522)
+  * Yossi Gandelsman, Yu Sun, , Xinlei Chen, Alexei A. Efros
+  * UC Berkeley, Meta AI
 * **TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?** [NeurIPS 2021] [pdf](https://proceedings.neurips.cc/paper_files/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf)
+  * Yuejiang Liu, Parth Kothari, Bastien van Delft, Baptiste Bellot-Gurlet, Taylor Mordan, Alexandre Alahi
+  * École Polytechnique Fédérale de Lausanne
 * **Efficient Test-Time Prompt Tuning for Vision-Language Models** [arxiv 2024.8.11] [pdf](https://arxiv.org/pdf/2408.05775)
+  * Yuhan Zhu, Guozhen Zhang, Chen Xu, Haocheng Shen, Xiaoxin Chen, Gangshan Wu, Limin Wang
+  * State Key Laboratory for Novel Software Technology, Nanjing University, vivo AI Lab 3Shanghai AI Laboratory
 * **Tent: Fully Test-time Adaptation by Entropy Minimization** [arxiv 2021.3.18] [pdf](https://arxiv.org/pdf/2006.10726)
-* **MEMO: Test Time Robustness via Adaptation and Augmentation** [arxiv 2022.10.10] [pdf](https://arxiv.org/pdf/2110.09506)
+  * Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell
+  * UC Berkeley, Adobe Research
+* **MEMO: Test Time Robustness via Adaptation and Augmentation** [arxiv 2022.10.10] [pdf](https://arxiv.org/pdf/2110.09506) [github](https://github.com/zhangmarvin/memo)
+  * Marvin Zhang, Sergey Levine, Chelsea Finn
+  * UC Berkeley, Stanford University
 * **The Entropy Enigma: Success and Failure of Entropy Minimization** [arxiv 2024.5.12] [pdf](https://arxiv.org/pdf/2405.05012)
+  * Ori Press, Ravid Shwartz-Ziv, Yann LeCun, Matthias Bethge
+  * University of Tubingen, Tubingen AI Center, New York University, Meta AI, FAIR.
 * **On Pitfalls of Test-Time Adaptation** [arxiv 2023.6.6] [pdf](https://arxiv.org/pdf/2306.03536)
+  * Hao Zhao, Yuejiang Liu, Alexandre Alahi, Tao Lin
+  * École Polytechnique Fédérale de Lausanne (EPFL), Research Center for Industries of the Future, Westlake University, School of Engineering, Westlake University
 * **Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering** [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.803.pdf)
+  * Yi Su, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
+  * Institute of Computer Science and Technology, Soochow University, China, Department of Computer Science, National University of Singapore
 * **Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization** [arxiv 2024.1.11] [pdf](https://arxiv.org/pdf/2311.01459)
+  * Jameel Hassan, Hanan Gani, Noor Hussein, Muhammad Uzair Khattak, Muzammal Naseer, Fahad Shahbaz Khan, Salman Khan
+  * Mohamed Bin Zayed University of AI, Linköping University, Australian National University
 * **Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach** [arxiv 2024.8.14] [pdf](https://arxiv.org/pdf/2408.07511)
+  * Yarin Bar, Shalev Shaer, Yaniv Romano
+  * Department of Computer Science, Technion IIT, Israel, Department of Electrical and Computer Engineering, Technion IIT, Israel
 * **Simulating Bandit Learning from User Feedback for Extractive Question Answering** [ACL 2022] [pdf](https://aclanthology.org/2022.acl-long.355.pdf)
+  * Ge Gao, Eunsol Choi, Yoav Artzi
+  * Department of Computer Science and Cornell Tech, Cornell University, Department of Computer Science, The University of Texas at Austin
 * **Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment** [ACL 2022] [pdf](https://aclanthology.org/2022.findings-acl.75.pdf)
+  * Zichao Li, Prakhar Sharma, Xing Han Lu, Jackie C.K. Cheung, Siva Reddy
+  * Mila, McGill University, University of California, Los Angeles
 * **Test-time Adaptation for Machine Translation Evaluation by Uncertainty Minimization** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.47.pdf)
+  * Runzhe Zhan, Xuebo Liu, Derek F. Wong, Cuilian Zhang, Lidia S. Chao, Min Zhang
+  * NLPCT Lab, Department of Computer and Information Science, University of Macau, Institute of Computing, Harbin Institute of Technology, Shenzhen, China
 * **COMET: A Neural Framework for MT Evaluation** [EMNLP 2020] [pdf](https://aclanthology.org/2020.emnlp-main.213.pdf)
+  * Ricardo Rei, Craig Stewart, Ana C Farinha, Alon Lavie
+  * Unbabel AI
 * **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [arxiv 2023.5.29] [pdf](https://arxiv.org/pdf/2305.18010)
+  * Shuai Zhao, Xiaohan Wang, Linchao Zhu, Yi Yang
+  * ReLER Lab, AAII, University of Technology Sydney, ReLER Lab, CCAI, Zhejiang University, Stanford University, Baidu Inc.
 * **Improving robustness against common corruptions by covariate shift adaptation** [arxiv 2020.10.23] [pdf](https://arxiv.org/pdf/2006.16971)
+  * Steffen Schneider, Evgenia Rusak, Luisa Eck, Oliver Bringmann, Wieland Brendel, Matthias Bethge
+  * University of Tübingen & IMPRS-IS, LMU Munich, University of Tübingen
 * **Selective Annotation Makes Language Models Better Few-Shot Learners** [arxiv 2022.9.5] [pdf](https://arxiv.org/pdf/2209.01975)
+  * Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu
+  * The University of Hong Kong, University of Washington, Allen Institute for AI, Carnegie Mellon University FPenn State University, Meta AI
 * **Test-Time Adaptation with Perturbation Consistency Learning** [arxiv 2023.4.25] [pdf](https://arxiv.org/pdf/2304.12764)
+  * Yi Su, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
+  * Equal contribution, Institute of Computer Science and Technology, Soochow University, China Department of Computer Science, National University of Singapore, Singapore.
 * **Test-Time Prompt Adaptation for Vision-Language Models** [NeurIPS 2023] [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/cdd0640218a27e9e2c0e52e324e25db0-Paper-Conference.pdf)
+  * Manli Shu, Weili Nie, De-An Huang, Zhiding Yu, Tom Goldstein, Anima Anandkumar, Chaowei Xiao
+  * University of Maryland, NVIDIA, Caltech, Arizona State University
 * **Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning** [arxiv 2023.8.17] [pdf](https://arxiv.org/pdf/2308.06038)
+  * Chun-Mei Feng, Kai Yu, Yong Liu, Salman Khan, Wangmeng Zuo
+  * Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE, Australian National University, Canberra ACT, Australia, Harbin Institute of Technology, Harbin, China
 * **Test-Time Model Adaptation with Only Forward Passes** [arxiv 2024.5.29] [pdf](https://arxiv.org/pdf/2404.01650)
+  * Shuaicheng Niu, Chunyan Miao, Guohao Chen, Pengcheng Wu, Peilin Zhao
+  * College of Computing and Data Science, Nanyang Technological University, Singapore, Joint NTU-WeBank Research Centre onFintech, Singapore, Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY), Singapore, Tencent AI Lab, Shenzhen, China.
 * **Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models** [arxiv 2024.7.22] [pdf](https://arxiv.org/pdf/2407.15913)
+  * Raza Imam, Hanan Gani, Muhammad Huzaifa, Karthik Nandakumar
+  * Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 * **StreamAdapter: Efficient Test Time Adaptation from Contextual Streams** [arxiv 2024.11.14] [pdf](https://arxiv.org/pdf/2411.09289)
+  * Dilxat Muhtar, Yelong Shen, Yaming Yang, Xiaodong Liu, Yadong Lu, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Weiwei Deng, Feng Sun, Xueliang Zhang, Jianfeng Gao, Weizhu Chen, Qi Zhang
+  * Nanjing University, Microsoft
 * **Towards Stable Test-time Adaptation in Dynamic Wild World** [arxiv 2023.2.24] [pdf](https://arxiv.org/pdf/2302.12400)
+  * Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, Mingkui Tan
+  * South China University of Technology, Tencent AI Lab, National University of Singapore, Key Laboratory of Big Data and Intelligent Robot, Ministry of Education4 Pazhou Laboratory
 * **SoTTA: Robust Test-Time Adaptation on Noisy Data Streams** [arxiv 2023.10.16] [pdf](https://arxiv.org/pdf/2310.10074)
+  * Taesik Gong, Yewon Kim, Taeckyung Lee, Sorn Chottananurak, Sung-Ju Lee
+  * Nokia Bell Labs, KAIST
 * **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** [arxiv 2022.7.1] [pdf](https://arxiv.org/pdf/2203.05482)
+  * Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt
+  * University of Washington, Columbia University, Google Research, Brain Team, Meta AI Research, TelAviv University
 * **Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study** [EMNLP 2022] [pdf](https://aclanthology.org/2022.findings-emnlp.460.pdf)
+  * Hai Ye, Yuyang Ding, Juntao Li, Hwee Tou Ng
+  * Department of Computer Science, National University of Singapore, Soochow University, China
 ### Modifying the Input
 * **What Makes Good In-Context Examples for GPT-3?** [DeeLIO 2022] [pdf](https://aclanthology.org/2022.deelio-1.10.pdf)
 * **In-Context Learning with Iterative Demonstration Selection** [EMNLP 2024] [pdf](https://aclanthology.org/2024.findings-emnlp.438.pdf)

@@ -67,12 +67,7 @@
 7. kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.903.pdf)
 8. AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation [arxiv 2023.5.10] [pdf](https://arxiv.org/pdf/2304.12566)
 
-### Other application
-1. Interpretability-Guided Test-Time Adversarial Defense (defense) [pdf](https://arxiv.org/pdf/2409.15190)
-2. Test Time Learning for Time Series Forecasting (time series) [pdf](https://arxiv.org/pdf/2409.14012)
-3. AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge (knowledge conflict) [pdf](https://arxiv.org/pdf/2409.07394)
-4. LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition (speech) [pdf](https://arxiv.org/pdf/2408.05769)
-5. CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation (3D cloud point) [pdf](https://arxiv.org/pdf/2407.16193)
+
 
 ## Test-time Reasoning
 ### Reapted sampling

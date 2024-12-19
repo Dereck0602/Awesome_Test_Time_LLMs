@@ -278,10 +278,261 @@
 
 ### Self-correction
 
-1. Reflexion: Language Agents with Verbal Reinforcement Learning [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.11366)
-2. Interscript: A dataset for interactive learning of scripts through error feedback [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.07867)
-3. NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction [ACL 2021] [pdf](https://aclanthology.org/2021.naacl-main.444.pdf)
-4. Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback [ACL 2022] [pdf](https://aclanthology.org/2022.findings-naacl.26.pdf)
-5. CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing [ICLR 2024] [pdf](https://openreview.net/pdf?id=Sx038qxjek)
-6. Teaching Large Language Models to Self-Debug [ICLR 2024] [pdf](https://openreview.net/pdf?id=KuPixIqPiq)
-7. 
+* **Reflexion: Language Agents with Verbal Reinforcement Learning** [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.11366) [github](https://github.com/noahshinn/reflexion)
+  * Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao
+  *  Northeastern University， Massachusetts Institute of Technology，Princeton University
+
+* **Interscript: A dataset for interactive learning of scripts through error feedback** [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.07867) [github](https://github.com/allenai/interscript)
+  * Niket Tandon, Aman Madaan, Peter Clark, Keisuke Sakaguchi, Yiming Yang
+  *  Allen Institute for Artificial Intelligence, Seattle, WA, USA   Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA
+
+* **NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction** [ACL 2021] [pdf](https://aclanthology.org/2021.naacl-main.444.pdf) [github](https://github.com/MSR-LIT/NLEdit/)
+  * Ahmed Elgohary, Christopher Meek, Matthew Richardson, Adam Fourney, Gonzalo Ramos, Ahmed Hassan Awadallah
+  * University of Maryland   Microsoft Research
+
+* **Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback** [ACL 2022] [pdf](https://aclanthology.org/2022.findings-naacl.26.pdf) [github](https://github.com/allenai/interscript)
+  * Niket Tandon, Aman Madaan, Peter Clark, Yiming Yang
+  * Allen Institute for Artificial Intelligence, Seattle, WA, USA  Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA
+
+* **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing** [ICLR 2024] [pdf](https://openreview.net/pdf?id=Sx038qxjek) [github](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)
+  * Zhibin Gou, Zhihong Shao, Yeyun Gong, yelong shen, Yujiu Yang, Nan Duan, Weizhu Chen
+  * Tsinghua University , Microsoft Research Asia, Microsoft Azure AI
+
+* **Teaching Large Language Models to Self-Debug** [ICLR 2024] [pdf](https://openreview.net/pdf?id=KuPixIqPiq)
+  * Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou
+  *  Google DeepMind , UC Berkeley
+
+* **RARR: Researching and Revising What Language Models Say, Using Language Models** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.910.pdf) [github](https://github.com/anthonywchen/RARR)
+  * Luyu Gao, Zhuyun Dai, Panupong Pasupat, Anthony Chen, Arun Tejasvi Chaganty, Yicheng Fan, Vincent Zhao, Ni Lao, Hongrae Lee, Da-Cheng Juan, Kelvin Guu
+  * Carnegie Mellon University , Google Research, UC Irvine
+
+* **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback** [arxiv 2020.5] [pdf](https://arxiv.org/pdf/2005.10636) [github](https://github.com/michiyasunaga/DrRepair)
+  * Michihiro Yasunaga, Percy Liang
+  * Stanford University, Stanford, CA
+
+* **Is ChatGPT a Good NLG Evaluator? A Preliminary Study** [ACL 2023] [pdf](https://aclanthology.org/2023.newsum-1.1.pdf) [github](https://github.com/krystalan/chatgpt_as_nlg_evaluator)
+  * Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou
+  * Soochow University, Suzhou, China ;Beijing Jiaotong University, Beijing, China; Pattern Recognition Center, WeChat AI, Tencent Inc, China
+     ; Waseda University, Tokyo, Japan ; Fudan Unversity, Shanghai, China
+* **ChatGPT as a Factual Inconsistency Evaluator for Text Summarization** [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.15621) 
+  * Zheheng Luo, Qianqian Xie, Sophia Ananiadou
+  *  Department of Computer Science, The University of Manchester
+
+* **G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment** [ACL 2023] [pdf ](https://aclanthology.org/2023.emnlp-main.153.pdf) [github](https://github.com/nlpyang/geval)
+  * Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu
+  *  Microsoft Azure AI
+
+* **Can Large Language Models Be an Alternative to Human Evaluations?** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.870.pdf)
+  * Cheng-Han Chiang, Hung-yi Lee
+  *  National Taiwan University
+
+* **Shepherd: A Critic for Language Model Generation** [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.04592) [github](https://arxiv.org/pdf/2308.04592)
+  * Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
+  * Meta AI Research, FAIR
+
+* **PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization** [ICLR 2024] [pdf](https://openreview.net/pdf?id=5Nn2BLV7SB)
+  * Yidong Wang, Zhuohao Yu, Wenjin Yao, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang
+  * Peking University ,Westlake University ,Microsoft Research Asia
+
+ * **JudgeLM: Fine-tuned Large Language Models are Scalable Judges** [arxiv 2023.10] [pdf](https://arxiv.org/pdf/2310.17631) [github](https://github.com/baaivision/JudgeLM)
+   * Lianghui Zhu, Xinggang Wang, Xinlong Wang
+   * Beijing Academy of Artificial Intelligence;
+      School of EIC, Huazhong University of
+      Science & Technology
+
+* **Generative Judge for Evaluating Alignment** [ICLR 2024] [pdf](https://openreview.net/pdf?id=gtkFw6sZGS) [github](https://github.com/GAIR-NLP/auto-j)
+  * Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, hai zhao, Pengfei Liu
+  * Shanghai Jiao Tong University ;Shanghai Artificial Intelligence Laboratory ;Hong Kong Polytechnic University ;New York University ;Chinese Academy of Sciences ;Generative AI Research Lab (GAIR)
+
+* **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging** [arxiv 2024.5] [pdf](https://arxiv.org/pdf/2405.12163) [github](https://github.com/dropreg/Fennec)
+  * Xiaobo Liang, Haoke Zhang, Helan hu, Juntao Li, Jun Xu, Min Zhang
+  *  Soochow University, Peking University, Baidu Inc.
+
+* **REFINER: Reasoning Feedback on Intermediate Representations** [ACL 2024] [pdf](https://aclanthology.org/2024.eacl-long.67.pdf) [github](http://github.com/debjitpaul/refiner)
+  * Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings
+  * Université Grenoble Alpes, CNRS, Grenoble INP, LIG
+
+* **Improving Factuality and Reasoning in Language Models through Multiagent Debate** [arxiv 2023.5] [pdf](https://arxiv.org/pdf/2305.14325) [Project website](https://arxiv.org/pdf/2305.14325)
+  * Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch
+  *  MIT CSAIL  MIT CSAIL, BCS, CBMM   Google Brain
+
+* **Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate** [EMNLP 2023] [pdf](https://aclanthology.org/2023.findings-emnlp.508.pdf) [github](https://github.com/Waste-Wood/FORD)
+  * Kai Xiong, Xiao Ding, Yixin Cao, Ting Liu, Bing Qin
+  * Research Center for Social Computing and Information Retrieval Harbin Institute of Technology, China ; Singapore Management University, Singapore
+
+* **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate** [arxiv 2023.5] [pdf](https://arxiv.org/pdf/2305.19118) [github](https://github.com/Skytliang/Multi-Agents-Debate)
+  * Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Shuming Shi, Zhaopeng Tu
+  * Tsinghua University, Shanghai JiaoTong University, Tencent AI Lab
+
+* **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs** [ACL 2024] [pdf](https://aclanthology.org/2024.acl-long.381.pdf) [github](https://github.com/dinobby/ReConcile)
+  * Justin Chen, Swarnadeep Saha, Mohit Bansal
+  * UNC Chapel Hill
+
+* **Mixture-of-Agents Enhances Large Language Model Capabilities** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.04692) [github](https://github.com/togethercomputer/moa)
+  * Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou
+  *  Duke University  University of Chicago  Stanford University  Together AI
+
+* **Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate** [arxiv 2024.7] [pdf](https://arxiv.org/pdf/2402.07401)
+  * Kyungha Kim, Sangyun Lee, Kung-Hsiang Huang, Hou Pong Chan, Manling Li, Heng Ji
+  * University of Illinois Urbana-Champaign DAMOAcademy, Alibaba Group Northwestern University
+
+* **Debating with More Persuasive LLMs Leads to More Truthful Answers** [ICML 2024] [pdf](https://openreview.net/pdf?id=iLCZtl7FTa) [github](https://github.com/ucl-dark/llm_debate)
+  * Akbir Khan, John Hughes, Dan Valentine, Laura Ruis, Kshitij Sachan, Ansh Radhakrishnan, Edward Grefenstette, Samuel R. Bowman, Tim Rocktäschel, Ethan Perez
+  * University College London Speechmatics MATS Anthropic FAR AI.
+
+* **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate** [ICLR 2024] [pdf ](https://openreview.net/pdf?id=FQepisCUWu)
+  * Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu
+  *  Tsinghua University  Hong Kong University of Science and Technology  Peking University
+
+* **ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting** [IREC 2024] [pdf](https://aclanthology.org/2024.lrec-main.265.pdf) [github](https://github.com/RUCAIBox/ChainLM)
+  * Xiaoxue Cheng, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen
+  * Gaoling School of Artificial Intelligence, Renmin University of China;School of Information, Renmin University of China ;DIRO, Université de Montréal
+
+* **Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment** [arxiv 2023.11] [pdf](https://arxiv.org/pdf/2311.08596)
+  * Philippe Laban, Lidiya Murakhovs'ka, Caiming Xiong, Chien-Sheng Wu
+  *  Salesforce AI Research
+
+* **MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.14711) 
+  * Alfonso Amayuelas, Xianjun Yang, Antonis Antoniades, Wenyue Hua, Liangming Pan, William Wang
+  * UC Santa Barbara, Rutgers University
+
+* **Teaching Models to Balance Resisting and Accepting Persuasion** [arxiv 2024.10] [pdf][https://arxiv.org/pdf/2410.14596] [github](https://github.com/esteng/persuasion_balanced_training)
+  * Elias Stengel-Eskin, Peter Hase, Mohit Bansal
+  * UNCChapel Hill Abstract Anthropic
+
+* **GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion** [arxiv 2024.9] [pdf](https://arxiv.org/pdf/2409.14051)
+  * Tongxuan Liu, Xingyu Wang, Weizhe Huang, Wenjiang Xu, Yuting Zeng, Lei Jiang, Hailong Yang, Jing Li
+  * University of Science and Technology of China 2Institute of Automation, Chinese Academy of Sciences  Beihang University
+
+* **Improving Multi-Agent Debate with Sparse Communication Topology** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.11776)
+  * Yunxuan Li, Yibing Du, Jiageng Zhang, Le Hou, Peter Grabowski, Yeqing Li, Eugene Ie
+  * Google , Google DeepMind
+
+* **Constitutional AI: Harmlessness from AI Feedback** [arxiv 2022.12] [pdf](https://arxiv.org/pdf/2212.08073) [github](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)
+  * Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, Carol Chen, Catherine Olsson, Christopher Olah, Danny Hernandez, Dawn Drain, Deep Ganguli, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jamie Kerr, Jared Mueller, Jeffrey Ladish, Joshua Landau, Kamal Ndousse, Kamile Lukosuite, Liane Lovitt, Michael Sellitto, Nelson Elhage, Nicholas Schiefer, Noemi Mercado, Nova DasSarma, Robert Lasenby, Robin Larson, Sam Ringer, Scott Johnston, Shauna Kravec, Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Conerly, Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan
+  * Anthropic
+
+* **Self-Refine: Iterative Refinement with Self-Feedback** [NeurIPS 2023] [pdf](https://openreview.net/pdf?id=S37hOerQLB)
+  * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark
+  * Language Technologies Institute, Carnegie Mellon University; Allen Institute for Artificial Intelligence ;University of Washington; NVIDIA ;UC San Diego ;Google Deepmind
+
+* **Language Models can Solve Computer Tasks** [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.17491) [github](https://github.com/posgnu/rci-agent)
+  * Geunwoo Kim, Pierre Baldi, Stephen McAleer
+  *  University of California, Irvine ; Carnegie Mellon University
+
+* **Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models** [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.12563) [github](https://github.com/MBZUAI-CLeaR/IoE-Prompting)
+  * Loka Li, Zhenhao Chen, Guangyi Chen, Yixuan Zhang, Yusheng Su, Eric Xing, Kun Zhang
+  *  Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE Carnegie Mellon University, Pittsburgh PA, USA
+
+* **Self-critiquing models for assisting human evaluators** [arxiv 2022.6] [pdf](https://arxiv.org/pdf/2206.05802)
+  * William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
+  * OpenAI
+
+* **Recursive Introspection: Teaching Language Model Agents How to Self-Improve** [arxiv 2024.7] [pdf](https://arxiv.org/pdf/2407.18219)
+  * Yuxiao Qu, Tianjun Zhang, Naman Garg, Aviral Kumar
+  * Carnegie Mellon University, UC Berkeley, MultiOn
+
+* **Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.10735)
+  * Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li
+  * Tencent, Shenzhen, Guangdong, China
+
+* **Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.12050) [github](https://github.com/ytyz1307zzh/RefAug)
+  * Zhihan Zhang, Tao Ge, Zhenwen Liang, Wenhao Yu, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang
+  * University of Notre Dame Tencent AI Lab, Seattle
+
+* **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements** [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.10963) 
+  * Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Raileanu
+  * FAIR at Meta, Georgia Institute of Technology, StabilityAI
+
+* **Generating Sequences by Learning to Self-Correct** [ICLR 2023] [pdf](https://openreview.net/pdf?id=hH36JeQZDaO) [github](https://github.com/wellecks/self_correction)
+  * Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi, Yejin Choi
+  * Allen Institute for Artificial Intelligence ;Center for Language and Speech Processing, Johns Hopkins University ;Paul G. Allen School of Computer Science & Engineering, University of Washington
+
+* **Training Language Models to Self-Correct via Reinforcement Learning** [arxiv 2024.9] [pdf](https://arxiv.org/pdf/2409.12917)
+  * Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, John D Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust
+  * Google DeepMind
+
+* **Is Self-Repair a Silver Bullet for Code Generation?** [ICLR 2024] [pdf](https://openreview.net/pdf?id=y0GJXRungR) [github](https://github.com/theoxo/self-repair)
+  * Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama
+  * MIT CSAIL Microsoft Research
+
+* **Large Language Models Cannot Self-Correct Reasoning Yet** [ICLR 2024] [pdf](https://openreview.net/pdf?id=IkmD3fKBPQ)
+  * Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou
+  * Google DeepMind  University of Illinois at Urbana-Champaign
+
+* **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.06461)
+  * Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
+  *  Amazon
+
+* **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?** [arxiv 2023.10] [pdf](https://arxiv.org/pdf/2310.08118)
+  * Karthik Valmeekam, Matthew Marquez, Subbarao Kambhampati
+  * School of Computing & AI Arizona State University Tempe.
+
+* **GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for Reasoning Problems** [arxiv 2023.10] [pdf](https://arxiv.org/pdf/2310.12397)
+  * Kaya Stechly, Matthew Marquez, Subbarao Kambhampati
+  * Arizona State University, Tempe
+
+* **When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.01297) 
+  * Ryo Kamoi, Yusen Zhang, Nan Zhang, Jiawei Han, Rui Zhang
+  * Penn State University , University of Illinois Urbana-Champaign
+
+* **LLMs cannot find reasoning errors, but can correct them given the error location** [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.826.pdf) [github](https://github.com/WHGTyen/BIG-Bench-Mistake)
+  * Gladys Tyen, Hassan Mansoor, Victor Carbune, Peter Chen, Tony Mak
+  * University of Cambridge, Dept. of Computer Science & Technology, ALTA Institute ; Google Research
+
+### Tree Searching
+
+* **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [arxiv 2023.5] [pdf](https://arxiv.org/pdf/2305.10601) [github](https://github.com/princeton-nlp/tree-of-thought-llm)
+  * Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
+  * Princeton University  Google DeepMind  Princeton University
+
+* **Self-Evaluation Guided Beam Search for Reasoning** [NeurIPS 2023] [pdf](https://openreview.net/pdf?id=Bw82hwg5Q3) [github](https://github.com/YuxiXie/SelfEval-Guided-Decoding)
+  * Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, Junxian He, Qizhe Xie
+  * National University of Singapore   The Hong Kong University of Science and Technology
+
+* **Reasoning with Language Model is Planning with World Model** [EMNLP 2023] [pdf](https://aclanthology.org/2023.emnlp-main.507.pdf) [github](https://github.com/maitrix-org/llm-reasoners)
+  * Shibo Hao, Yi Gu, Haodi Ma, Joshua Hong, Zhen Wang, Daisy Wang, Zhiting Hu
+  * UCSan Diego, University of Florida  Mohamed bin Zayed University of Artificial Intelligence
+
+* **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.07394) [github](https://github.com/trotsky1997/MathBlackBox)
+  * Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang
+  *  Fudan University , Shanghai Artificial Intelligence Laboratory
+
+* **AlphaMath Almost Zero: Process Supervision without Process** [arxiv 2024.5] [pdf](https://arxiv.org/pdf/2405.03553) [github](https://github.com/MARIO-Math-Reasoning/Super_MARIO)
+  * Guoxin Chen, Minpeng Liao, Chengxi Li, Kai Fan
+  *  Tongyi Lab
+
+* **Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training** [arxiv 2023.9] [pdf](https://arxiv.org/pdf/2309.17179)
+  * Xidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang
+  * University College London ,Shanghai Jiao Tong University ,Carnegie Mellon University
+
+* **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [arxiv 2024.8] [pdf](https://arxiv.org/pdf/2408.06195) [github](https://github.com/zhentingqi/rStar)
+  * Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
+  * Microsoft Research Asia , Harvard University
+
+* **Interpretable Contrastive Monte Carlo Tree Search Reasoning** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.01707) [github](https://github.com/zitian-gao/SC-MCTS)
+  * Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
+  *  1The University of Sydney 2Peking University 3Xiaohongshu Inc. 4Shanghai AI Laboratory
+     5Tsinghua University 6The Hong Kong University of Science and Technology
+     7The Hong Kong University of Science and Technology (Guangzhou)
+
+* **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search** [arxiv 2024.6] [pdf ](https://arxiv.org/pdf/2406.03816) [github](https://github.com/THUDM/ReST-MCTS)
+  * Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
+  * The Knowledge Engineering Group (KEG), Tsinghua University; California Institute of Technology
+
+* **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning** [arxiv 2024.5] [pdf](https://arxiv.org/pdf/2405.00451) [github](https://github.com/YuxiXie/MCTS-DPO)
+  * Yuxi Xie, Anirudh Goyal, Wenyue Zheng, Min-Yen Kan, Timothy P. Lillicrap, Kenji Kawaguchi, Michael Shieh
+  *  National University of Singapore; Google DeepMind
+
+* **O1 Replication Journey: A Strategic Progress Report -- Part 1** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.18982) [github](https://github.com/GAIR-NLP/O1-Journey)
+  * Yiwei Qin, Xuefeng Li, Haoyang Zou, Yixiu Liu, Shijie Xia, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu
+  * Shanghai Jiao Tong University, New York University,
+     MBZUAI, Generative AI Research Lab (GAIR)
+
+* **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions** [arxiv 2024.11] [pdf](https://arxiv.org/pdf/2411.14405) [github](https://github.com/AIDC-AI/Marco-o1)
+  * Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang
+  * MarcoPolo Team, Alibaba International Digital Commerce
+
+* **o1-Coder: an o1 Replication for Coding** [arxiv 2024.12] [pdf](https://arxiv.org/pdf/2412.00154) [github](https://github.com/ADaM-BJTU/o1-coder)
+  * Yuxiang Zhang, Shangxi Wu, Yuqi Yang, Jiangming Shu, Jinlin Xiao, Chao Kong, Jitao Sang
+  * School of Computer Science and Technology , Beijing Jiaotong University

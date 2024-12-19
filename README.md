@@ -203,8 +203,9 @@
 
 ## Test-time Reasoning
 ### Reapted sampling
-* **Competition-level code generation with alphacode** [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814)
+* **Competition-level code generation with alphacode** [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814) [github](https://github.com/google-deepmind/code_contests)
   * Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals
+  * Google-DeepMind
     
 2. Code Llama: Open Foundation Models for Code [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.12950)
 3. More Agents Is All You Need [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.05120)

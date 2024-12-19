@@ -231,25 +231,50 @@
 
 * **Training Verifiers to Solve Math Word Problems**[arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)
   * Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
-  *  OpenAI
+  * OpenAI
 
 * **WebGPT: Browser-assisted question-answering with human feedback** [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.09332)
   * Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman
-  *  OpenAI
+  * OpenAI
 
 * **Making Language Models Better Reasoners with Step-Aware Verifier** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.291.pdf) [github](https://github.com/microsoft/DiVeRSe)
   * Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen
-  *  National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University   Microsoft Corporation
+  * National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University   Microsoft Corporation
 
-6. Accelerating Best-of-N via Speculative Rejection [ICML 2024] [pdf](https://openreview.net/pdf?id=dRp8tAIPhj)
-7. TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.16033)
-8. Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.02725)
-9. Advancing LLM Reasoning Generalists with Preference Trees [arxiv 2024.4] [pdf](https://arxiv.org/pdf/2404.02078)
-10. Solving math word problems with process- and outcome-based feedback [arxiv 2022.11] [pdf](https://arxiv.org/pdf/2211.14275)
-11. Let's Verify Step by Step [ICLR 2024] [pdf](https://openreview.net/pdf?id=v8L0pN6EOi)
-12. Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [ACL 2024] [pdf](https://aclanthology.org/2024.acl-long.510.pdf)
-13. Improve Mathematical Reasoning in Language Models by Automated Process Supervision [arxiv 20224.6] [pdf](https://arxiv.org/pdf/2406.06592)
-14. Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [arxiv 20224.10] [pdf](https://arxiv.org/pdf/2410.08146)
+* **Accelerating Best-of-N via Speculative Rejection** [ICML 2024] [pdf](https://openreview.net/pdf?id=dRp8tAIPhj)
+  * Ruiqi Zhang, Momin Haider, Ming Yin, Jiahao Qiu, Mengdi Wang, Peter Bartlett, Andrea Zanette
+
+* **TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.16033)
+  * Jiahao Qiu, Yifu Lu, Yifan Zeng, Jiacheng Guo, Jiayi Geng, Huazheng Wang, Kaixuan Huang, Yue Wu, Mengdi Wang
+  * Department of Electrical & Computer Engineering, Princeton University   Department of Electrical Engineering & Computer Science, University of Michigan  Department of Computer Science, Princeton University  School of Electrical Engineering and Computer Science, Oregon State University  AI Lab, Princeton
+
+* **Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.02725) [github](https://github.com/rohinmanvi/Capability-Aware_and_Mid-Generation_Self-Evaluations)
+  * Rohin Manvi, Anikait Singh, Stefano Ermon
+  * Stanford University
+
+* **Advancing LLM Reasoning Generalists with Preference Trees** [arxiv 2024.4] [pdf](https://arxiv.org/pdf/2404.02078) [github](https://github.com/OpenBMB/Eurus)
+  * Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, Zhenghao Liu, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun
+  * Tsinghua University , University of Illinois Urbana-Champaign, Northeastern University , ModelBest.Inc , Renmin University of China , BUPT , Tencent
+
+* **Solving math word problems with process- and outcome-based feedback** [arxiv 2022.11] [pdf](https://arxiv.org/pdf/2211.14275)
+  * Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia Creswell, Geoffrey Irving, Irina Higgins
+  * DeepMind
+
+* **Let's Verify Step by Step** [ICLR 2024] [pdf](https://openreview.net/pdf?id=v8L0pN6EOi) [github](https://github.com/openai/prm800k)
+  * Hunter Lightman, Vineet Kosaraju, Yuri Burda, Harrison Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe
+  * OpenAI
+
+* **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations** [ACL 2024] [pdf](https://aclanthology.org/2024.acl-long.510.pdf)
+  * Peiyi Wang, Lei Li, Zhihong Shao, Runxin Xu, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui
+  * State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University.  DeepSeek-AI  The University of Hong Kong   Tsinghua University  The Ohio State University
+
+* **Improve Mathematical Reasoning in Language Models by Automated Process Supervision** [arxiv 20224.6] [pdf](https://arxiv.org/pdf/2406.06592)
+  * Liangchen Luo, Yinxiao Liu, Rosanne Liu, Samrat Phatale, Meiqi Guo, Harsh Lara, Yunxuan Li, Lei Shu, Yun Zhu, Lei Meng, Jiao Sun, Abhinav Rastogi
+  * Google DeepMind, Google
+
+* **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning** [arxiv 20224.10] [pdf](https://arxiv.org/pdf/2410.08146)
+  * Amrith Setlur, Chirag Nagpal, Adam Fisch, Xinyang Geng, Jacob Eisenstein, Rishabh Agarwal, Alekh Agarwal, Jonathan Berant, Aviral Kumar
+  * Google Research, Google DeepMind, Carnegie Mellon University
 
 ### Self-correction
 

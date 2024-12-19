@@ -216,7 +216,8 @@
   * Lei Lin, Jiayi Fu, Pengli Liu, Qingyang Li, Yan Gong, Junchen Wan, Fuzheng Zhang, Zhongyuan Wang, Di Zhang, Kun Gai
   * Kuaishou Technology, Beijing, China   School of Computer Science and Engineering, Northeastern University, Shenyang, China 
 * **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [ICLR 2023] [pdf](https://openreview.net/pdf?id=1PL1NIMMrw)
-  * 
+  * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
+  * Google Research, Brain Team
 6. Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608)
 7. Learning to summarize with human feedback [NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
 8. Training Verifiers to Solve Math Word Problems [arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)

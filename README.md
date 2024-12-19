@@ -221,7 +221,7 @@
   * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
   * Google Research, Brain Team
 
-* **Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning **[arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608) [github]([declare-lab/PROVE (github.com)](https://github.com/declare-lab/prove))
+* **Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning **[arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608) [github](https://github.com/declare-lab/prove)
   * Vernon Y.H. Toh, Deepanway Ghosal, Soujanya Poria
   * Singapore University of Technology and Design
 
@@ -237,7 +237,7 @@
   * Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman
   *  OpenAI
 
-* **Making Language Models Better Reasoners with Step-Aware Verifier** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.291.pdf) [github]([microsoft/DiVeRSe (github.com)](https://github.com/microsoft/DiVeRSe))
+* **Making Language Models Better Reasoners with Step-Aware Verifier** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.291.pdf) [github](https://github.com/microsoft/DiVeRSe)
   * Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen
   *  National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University   Microsoft Corporation
 

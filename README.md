@@ -202,7 +202,9 @@
 
 
 ## Test-time Reasoning
+
 ### Reapted sampling
+
 * **Competition-level code generation with alphacode** [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814) [github](https://github.com/google-deepmind/code_contests)
   * Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals
   * Google-DeepMind
@@ -218,22 +220,39 @@
 * **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [ICLR 2023] [pdf](https://openreview.net/pdf?id=1PL1NIMMrw)
   * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
   * Google Research, Brain Team
-6. Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608)
-7. Learning to summarize with human feedback [NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
-8. Training Verifiers to Solve Math Word Problems [arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)
-9. WebGPT: Browser-assisted question-answering with human feedback [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.09332)
-10. Making Language Models Better Reasoners with Step-Aware Verifier [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.291.pdf)
-11. Accelerating Best-of-N via Speculative Rejection [ICML 2024] [pdf](https://openreview.net/pdf?id=dRp8tAIPhj)
-12. TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.16033)
-13. Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.02725)
-14. Advancing LLM Reasoning Generalists with Preference Trees [arxiv 2024.4] [pdf](https://arxiv.org/pdf/2404.02078)
-15. Solving math word problems with process- and outcome-based feedback [arxiv 2022.11] [pdf](https://arxiv.org/pdf/2211.14275)
-16. Let's Verify Step by Step [ICLR 2024] [pdf](https://openreview.net/pdf?id=v8L0pN6EOi)
-17. Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [ACL 2024] [pdf](https://aclanthology.org/2024.acl-long.510.pdf)
-18. Improve Mathematical Reasoning in Language Models by Automated Process Supervision [arxiv 20224.6] [pdf](https://arxiv.org/pdf/2406.06592)
-19. Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [arxiv 20224.10] [pdf](https://arxiv.org/pdf/2410.08146)
+
+* **Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning **[arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608) [github]([declare-lab/PROVE (github.com)](https://github.com/declare-lab/prove))
+  * Vernon Y.H. Toh, Deepanway Ghosal, Soujanya Poria
+  * Singapore University of Technology and Design
+
+* **Learning to summarize with human feedback **[NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
+  * Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
+  * OpenAI
+
+* **Training Verifiers to Solve Math Word Problems **[arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)
+  * Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
+  *  OpenAI
+
+* **WebGPT: Browser-assisted question-answering with human feedback** [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.09332)
+  * Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman
+  *  OpenAI
+
+* **Making Language Models Better Reasoners with Step-Aware Verifier** [ACL 2023] [pdf](https://aclanthology.org/2023.acl-long.291.pdf) [github]([microsoft/DiVeRSe (github.com)](https://github.com/microsoft/DiVeRSe))
+  * Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen
+  *  National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University   Microsoft Corporation
+
+6. Accelerating Best-of-N via Speculative Rejection [ICML 2024] [pdf](https://openreview.net/pdf?id=dRp8tAIPhj)
+7. TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.16033)
+8. Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.02725)
+9. Advancing LLM Reasoning Generalists with Preference Trees [arxiv 2024.4] [pdf](https://arxiv.org/pdf/2404.02078)
+10. Solving math word problems with process- and outcome-based feedback [arxiv 2022.11] [pdf](https://arxiv.org/pdf/2211.14275)
+11. Let's Verify Step by Step [ICLR 2024] [pdf](https://openreview.net/pdf?id=v8L0pN6EOi)
+12. Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [ACL 2024] [pdf](https://aclanthology.org/2024.acl-long.510.pdf)
+13. Improve Mathematical Reasoning in Language Models by Automated Process Supervision [arxiv 20224.6] [pdf](https://arxiv.org/pdf/2406.06592)
+14. Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [arxiv 20224.10] [pdf](https://arxiv.org/pdf/2410.08146)
 
 ### Self-correction
+
 1. Reflexion: Language Agents with Verbal Reinforcement Learning [arxiv 2023.3] [pdf](https://arxiv.org/pdf/2303.11366)
 2. Interscript: A dataset for interactive learning of scripts through error feedback [arxiv 2021.12] [pdf](https://arxiv.org/pdf/2112.07867)
 3. NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction [ACL 2021] [pdf](https://aclanthology.org/2021.naacl-main.444.pdf)

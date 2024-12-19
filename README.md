@@ -206,8 +206,10 @@
 * **Competition-level code generation with alphacode** [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814) [github](https://github.com/google-deepmind/code_contests)
   * Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals
   * Google-DeepMind
-    
-2. Code Llama: Open Foundation Models for Code [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.12950)
+* **Code Llama: Open Foundation Models for Code** [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.12950) [github](https://github.com/meta-llama/codellama)
+  * Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Romain Sauvestre, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve
+  * Meta AI
+   
 3. More Agents Is All You Need [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.05120)
 4. Just Ask One More Time! Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.230.pdf)
 5. Self-Consistency Improves Chain of Thought Reasoning in Language Models [ICLR 2023] [pdf](https://openreview.net/pdf?id=1PL1NIMMrw)

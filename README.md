@@ -172,7 +172,7 @@
   * Daniel Scalena, Gabriele Sarti, Malvina Nissim
   * University of Milano-Bicocca CLCG, University of Groningen
 ### Calibrating the Output
-* **Generalization through Memorization: Nearest Neighbor Language Models** [arxiv 2020.2.15] [pdf](https://arxiv.org/pdf/1911.00172)
+* **Generalization through Memorization: Nearest Neighbor Language Models** [arxiv 2020.2.15] [pdf](https://arxiv.org/pdf/1911.00172) [github](https://github.com/urvashik/knnlm)
   * Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis
   * Stanford University, Facebook AI Research
 * **Nearest Neighbor Machine Translation** [arxiv 2021.7.22] [pdf](https://arxiv.org/pdf/2010.00710) [github](https://github.com/facebookresearch/fairseq/tree/main/examples/translation)

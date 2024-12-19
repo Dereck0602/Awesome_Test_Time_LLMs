@@ -221,15 +221,15 @@
   * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
   * Google Research, Brain Team
 
-* **Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning **[arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608) [github](https://github.com/declare-lab/prove)
+* **Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**[arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608) [github](https://github.com/declare-lab/prove)
   * Vernon Y.H. Toh, Deepanway Ghosal, Soujanya Poria
   * Singapore University of Technology and Design
 
-* **Learning to summarize with human feedback **[NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
+* **Learning to summarize with human feedback**[NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
   * Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
   * OpenAI
 
-* **Training Verifiers to Solve Math Word Problems **[arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)
+* **Training Verifiers to Solve Math Word Problems**[arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)
   * Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
   *  OpenAI
 

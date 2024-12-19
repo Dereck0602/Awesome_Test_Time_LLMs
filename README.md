@@ -209,10 +209,14 @@
 * **Code Llama: Open Foundation Models for Code** [arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.12950) [github](https://github.com/meta-llama/codellama)
   * Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Romain Sauvestre, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve
   * Meta AI
-   
-3. More Agents Is All You Need [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.05120)
-4. Just Ask One More Time! Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.230.pdf)
-5. Self-Consistency Improves Chain of Thought Reasoning in Language Models [ICLR 2023] [pdf](https://openreview.net/pdf?id=1PL1NIMMrw)
+* **More Agents Is All You Need** [arxiv 2024.2] [pdf](https://arxiv.org/pdf/2402.05120) [github](https://github.com/MoreAgentsIsAllYouNeed/AgentForest)
+  * Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, Deheng Ye
+  * Tencent
+* **Just Ask One More Time! Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios** [ACL 2024] [pdf](https://aclanthology.org/2024.findings-acl.230.pdf)
+  * Lei Lin, Jiayi Fu, Pengli Liu, Qingyang Li, Yan Gong, Junchen Wan, Fuzheng Zhang, Zhongyuan Wang, Di Zhang, Kun Gai
+  * Kuaishou Technology, Beijing, China   School of Computer Science and Engineering, Northeastern University, Shenyang, China 
+* **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [ICLR 2023] [pdf](https://openreview.net/pdf?id=1PL1NIMMrw)
+  * 
 6. Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.12608)
 7. Learning to summarize with human feedback [NeurIPS 2020] [pdf](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
 8. Training Verifiers to Solve Math Word Problems [arxiv 2021.10] [pdf](https://arxiv.org/pdf/2110.14168)

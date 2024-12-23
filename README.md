@@ -396,7 +396,7 @@
   * Alfonso Amayuelas, Xianjun Yang, Antonis Antoniades, Wenyue Hua, Liangming Pan, William Wang
   * UC Santa Barbara, Rutgers University
 
-* **Teaching Models to Balance Resisting and Accepting Persuasion** [arxiv 2024.10] [pdf][https://arxiv.org/pdf/2410.14596] [github](https://github.com/esteng/persuasion_balanced_training)
+* **Teaching Models to Balance Resisting and Accepting Persuasion** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.14596) [github](https://github.com/esteng/persuasion_balanced_training)
   * Elias Stengel-Eskin, Peter Hase, Mohit Bansal
   * UNCChapel Hill Abstract Anthropic
 

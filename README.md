@@ -462,7 +462,7 @@
 
 * **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [arxiv 2024.6] [pdf](https://arxiv.org/pdf/2406.06461)
   * Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
-  *  Amazon
+  * Amazon
 
 * **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?** [arxiv 2023.10] [pdf](https://arxiv.org/pdf/2310.08118)
   * Karthik Valmeekam, Matthew Marquez, Subbarao Kambhampati
@@ -536,3 +536,69 @@
 * **o1-Coder: an o1 Replication for Coding** [arxiv 2024.12] [pdf](https://arxiv.org/pdf/2412.00154) [github](https://github.com/ADaM-BJTU/o1-coder)
   * Yuxiang Zhang, Shangxi Wu, Yuqi Yang, Jiangming Shu, Jinlin Xiao, Chao Kong, Jitao Sang
   * School of Computer Science and Technology , Beijing Jiaotong University
+
+
+
+
+
+
+
+##  Future Directions
+### Generalizable System-2 Model
+* **DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging** [arxiv 2024.10.5] [pdf](https://arxiv.org/pdf/2407.01470) [github](https://github.com/MiuLab/DogeRM)
+  * Tzu-Han Lin, Chen-An Li, Hung-yi Lee, Yun-Nung Chen
+  * National Taiwan University, Taipei, Taiwan
+* **Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs** [arxiv 2024.10.23] [pdf](https://arxiv.org/pdf/2406.10216) [github](https://github.com/YangRui2015/Generalizable-Reward-Model)
+  * Rui Yang, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang
+  * University of Illinois Urbana-Champaign, Georgia Institute of Technology, Princeton University, Princeton Language and Intelligence
+* **Generalizing Reward Modeling for Out-of-Distribution Preference Learning** [arxiv 2024.6.8] [pdf](https://arxiv.org/pdf/2402.14760) [github](https://github.com/jiachenwestlake/OODPL)
+  * Chen Jia
+  * SI-TECH Information Technology
+* **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** [arxiv 2023.12.24] [pdf](https://arxiv.org/pdf/2312.09390)
+  * Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu
+  * OpenAI
+### Multimodal Reasoning
+* **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [arxiv 2023.5.29] [pdf](https://arxiv.org/pdf/2305.18010) [github](https://github.com/lil-lab/bandit-qa)
+  * Shuai Zhao, Xiaohan Wang, Linchao Zhu, Yi Yang
+  * ReLER Lab, AAII, University of Technology Sydney, ReLER Lab, CCAI, Zhejiang University, Stanford University, Baidu Inc.
+* **Multimodal Chain-of-Thought Reasoning in Language Models** [arxiv 2024.5.20] [pdf](https://arxiv.org/pdf/2302.00923) [github](https://github.com/amazon-science/mm-cot)
+  * Zhuosheng Zhang, Aston Zhang, Mu Li, hai zhao, George Karypis, Alex Smola
+  * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. GenAI, Meta. Amazon Web Services
+* **Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models** [arxiv 2024.10.24] [pdf](https://arxiv.org/pdf/2404.03622)
+  * Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui, Furu Wei
+  * Microsoft Research, East China Normal University
+* **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning** [arxiv 2024.1.23] [pdf](https://arxiv.org/pdf/2401.12863)
+  * Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh, Godawari Sudhakar Rao
+  * Samsung R&D Institute India - Bangalore
+* **Multimodal Reasoning with Multimodal Knowledge Graph** [arxiv 2024.6.5] [pdf](https://arxiv.org/pdf/2406.02030)
+  * Junlin Lee, Yequan Wang, Jing Li, Min Zhang
+  * Harbin Institute of Technology, Shenzhen, China. Beijing Academy of Artificial Intelligence, Beijing, China
+* **Interleaved-Modal Chain-of-Thought** [arxiv 2024.11.29] [pdf](https://arxiv.org/pdf/2411.19488)
+  * Jun Gao, Yongqi Li, Ziqiang Cao, Wenjie Li
+  * School of Computer Science and Technology, Soochow University. Department of Computer Science, The Hong Kong Polytechnic University
+* **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [arxiv 2024.11.25] [pdf](https://arxiv.org/pdf/2411.10440) [github](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+  * Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan
+  * School of Electronic and Computer Engineering, Peking University. Institute for Interdisciplinary Information Sciences, Tsinghua University. Rabbitpre AI & PKU Shenzhen AIGC Joint Lab. Peng Cheng Laboratory. 5DAMO Academy, Alibaba Group. 6Hupan Lab. Computer Science and Engineering, Lehigh University
+### Efficiency and Performance Trade-off
+* **Learning How Hard to Think: Input-Adaptive Allocation of LM Computation** [arxiv 2024.10.7] [pdf](https://arxiv.org/pdf/2410.04707)
+  * Mehul Damani, Idan Shenfeld, Andi Peng, Andreea Bobu, Jacob Andreas
+  * Massachusetts Institute of Technology
+* **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10.29] [pdf](https://arxiv.org/pdf/2410.22480) [github](https://github.com/LeiLiLab/OSCA)
+  * Kexun Zhang, Shang Zhou, Danqing Wang, William Yang Wang, Lei Li
+  * 1Carnegie Mellon University. UC San Diego. UC Santa Barbara
+* **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [arxiv 2024.6.15] [pdf](https://arxiv.org/pdf/2406.06461)
+  * Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
+  * Amazon
+* **Token-Budget-Aware LLM Reasoning** [arxiv 2024.12.30] [pdf](https://arxiv.org/pdf/2412.18547) [github](https://github.com/GeniusHTX/TALE)
+  * Tingxu Han, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen, Zhenting Wang
+  * Nanjing University. 2Rutgers University. UMass Amherst
+* **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations** [arxiv 2024.12.17] [pdf](https://arxiv.org/pdf/2412.13171)
+  * Jeffrey Cheng, Benjamin Van Durme
+  * Department of Computer Science, Johns Hopkins University, Baltimore, US.
+### Unified Scaling Law
+* **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [arxiv 2024.9.16] [pdf](https://arxiv.org/pdf/2407.21787)
+  * Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
+  * Department of Computer Science, Stanford University. University of Oxford. Google DeepMind
+* **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [arxiv 2024.8.6] [pdf](https://arxiv.org/pdf/2408.03314)
+  * Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
+  * Equal advising, UC Berkeley, Google DeepMind

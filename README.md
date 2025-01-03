@@ -435,7 +435,7 @@
   * Luyu Gao, Zhuyun Dai, Panupong Pasupat, Anthony Chen, Arun Tejasvi Chaganty, Yicheng Fan, Vincent Zhao, Ni Lao, Hongrae Lee, Da-Cheng Juan, Kelvin Guu
   * Carnegie Mellon University , Google Research, UC Irvine
 
-* **Reinforced Self-Training (ReST) for Language Modeling **[arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.08998) 
+* **Reinforced Self-Training (ReST) for Language Modeling**[arxiv 2023.8] [pdf](https://arxiv.org/pdf/2308.08998) 
 
   * Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas
   * 1Google DeepMind, 2Google Research
@@ -705,8 +705,6 @@
 
   * Xidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang
   * University College London ,Shanghai Jiao Tong University ,Carnegie Mellon University
-
-* 
 
 * **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [arxiv 2024.8] [pdf](https://arxiv.org/pdf/2408.06195) [github](https://github.com/zhentingqi/rStar)
   * Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang

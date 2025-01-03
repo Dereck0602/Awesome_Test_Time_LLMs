@@ -715,7 +715,7 @@
   * 1The University of Sydney 2Peking University 3Xiaohongshu Inc. 4Shanghai AI Laboratory
     5Tsinghua University 6The Hong Kong University of Science and Technology
     7The Hong Kong University of Science and Technology (Guangzhou)
-* **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search** [arxiv 2024.6] [pdf ](https://arxiv.org/pdf/2406.03816) [github](https://github.com/THUDM/ReST-MCTS)
+* **ReST-MCTS: LLM Self-Training via Process Reward Guided Tree Search** [arxiv 2024.6] [pdf ](https://arxiv.org/pdf/2406.03816) [github](https://github.com/THUDM/ReST-MCTS)
   * Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
   * The Knowledge Engineering Group (KEG), Tsinghua University; California Institute of Technology
 * **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning** [arxiv 2024.5] [pdf](https://arxiv.org/pdf/2405.00451) [github](https://github.com/YuxiXie/MCTS-DPO)

@@ -745,32 +745,32 @@
 
 ##  Future Directions
 ### Generalizable System-2 Model
-* **DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging** [arxiv 2024.10.5] [pdf](https://arxiv.org/pdf/2407.01470) [github](https://github.com/MiuLab/DogeRM)
+* **DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging** [EMNLP 2024] [pdf](https://arxiv.org/pdf/2407.01470) [github](https://github.com/MiuLab/DogeRM)
   * Tzu-Han Lin, Chen-An Li, Hung-yi Lee, Yun-Nung Chen
   * National Taiwan University, Taipei, Taiwan
-* **Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs** [arxiv 2024.10.23] [pdf](https://arxiv.org/pdf/2406.10216) [github](https://github.com/YangRui2015/Generalizable-Reward-Model)
+* **Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs** [NeurIPS 2024] [pdf](https://arxiv.org/pdf/2406.10216) [github](https://github.com/YangRui2015/Generalizable-Reward-Model)
   * Rui Yang, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang
   * University of Illinois Urbana-Champaign, Georgia Institute of Technology, Princeton University, Princeton Language and Intelligence
-* **Generalizing Reward Modeling for Out-of-Distribution Preference Learning** [arxiv 2024.6.8] [pdf](https://arxiv.org/pdf/2402.14760) [github](https://github.com/jiachenwestlake/OODPL)
+* **Generalizing Reward Modeling for Out-of-Distribution Preference Learning** [ECML-PKDD 2024] [pdf](https://arxiv.org/pdf/2402.14760) [github](https://github.com/jiachenwestlake/OODPL)
   * Chen Jia
   * SI-TECH Information Technology
 * **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** [arxiv 2023.12.24] [pdf](https://arxiv.org/pdf/2312.09390)
   * Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu
   * OpenAI
 ### Multimodal Reasoning
-* **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [arxiv 2023.5.29] [pdf](https://arxiv.org/pdf/2305.18010) [github](https://github.com/lil-lab/bandit-qa)
+* **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [ICLR 2024] [pdf](https://arxiv.org/pdf/2305.18010) [github](https://github.com/lil-lab/bandit-qa)
   * Shuai Zhao, Xiaohan Wang, Linchao Zhu, Yi Yang
   * ReLER Lab, AAII, University of Technology Sydney, ReLER Lab, CCAI, Zhejiang University, Stanford University, Baidu Inc.
-* **Multimodal Chain-of-Thought Reasoning in Language Models** [arxiv 2024.5.20] [pdf](https://arxiv.org/pdf/2302.00923) [github](https://github.com/amazon-science/mm-cot)
+* **Multimodal Chain-of-Thought Reasoning in Language Models** [TMLR 2024] [pdf](https://arxiv.org/pdf/2302.00923) [github](https://github.com/amazon-science/mm-cot)
   * Zhuosheng Zhang, Aston Zhang, Mu Li, hai zhao, George Karypis, Alex Smola
   * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. GenAI, Meta. Amazon Web Services
-* **Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models** [arxiv 2024.10.24] [pdf](https://arxiv.org/pdf/2404.03622)
+* **Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models** [NeurIPS 2024] [pdf](https://arxiv.org/pdf/2404.03622)
   * Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui, Furu Wei
   * Microsoft Research, East China Normal University
-* **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning** [arxiv 2024.1.23] [pdf](https://arxiv.org/pdf/2401.12863)
+* **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning** [AAAI 2024] [pdf](https://arxiv.org/pdf/2401.12863)
   * Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh, Godawari Sudhakar Rao
   * Samsung R&D Institute India - Bangalore
-* **Multimodal Reasoning with Multimodal Knowledge Graph** [arxiv 2024.6.5] [pdf](https://arxiv.org/pdf/2406.02030)
+* **Multimodal Reasoning with Multimodal Knowledge Graph** [ACL 2024] [pdf](https://arxiv.org/pdf/2406.02030)
   * Junlin Lee, Yequan Wang, Jing Li, Min Zhang
   * Harbin Institute of Technology, Shenzhen, China. Beijing Academy of Artificial Intelligence, Beijing, China
 * **Interleaved-Modal Chain-of-Thought** [arxiv 2024.11.29] [pdf](https://arxiv.org/pdf/2411.19488)
@@ -786,7 +786,7 @@
 * **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10.29] [pdf](https://arxiv.org/pdf/2410.22480) [github](https://github.com/LeiLiLab/OSCA)
   * Kexun Zhang, Shang Zhou, Danqing Wang, William Yang Wang, Lei Li
   * 1Carnegie Mellon University. UC San Diego. UC Santa Barbara
-* **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [arxiv 2024.6.15] [pdf](https://arxiv.org/pdf/2406.06461)
+* **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [EMNLP 2024] [pdf](https://arxiv.org/pdf/2406.06461)
   * Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
   * Amazon
 * **Token-Budget-Aware LLM Reasoning** [arxiv 2024.12.30] [pdf](https://arxiv.org/pdf/2412.18547) [github](https://github.com/GeniusHTX/TALE)

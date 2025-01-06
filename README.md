@@ -346,7 +346,7 @@
    * Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, hai zhao, Pengfei Liu
    * Shanghai Jiao Tong University ;Shanghai Artificial Intelligence Laboratory ;Hong Kong Polytechnic University ;New York University ;Chinese Academy of Sciences ;Generative AI Research Lab (GAIR)
 
- * **Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate** [arxiv 2024.7] [pdf](https://arxiv.org/pdf/2402.07401)
+ * **Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate** [ICLR 2024] [pdf](https://arxiv.org/pdf/2402.07401)
 
    * Kyungha Kim, Sangyun Lee, Kung-Hsiang Huang, Hou Pong Chan, Manling Li, Heng Ji
    * University of Illinois Urbana-Champaign DAMOAcademy, Alibaba Group Northwestern University
@@ -355,7 +355,7 @@
 
    ### Search Strategies
 
- * **Competition-level code generation with alphacode** [arxiv 2022.2] [pdf](https://arxiv.org/pdf/2203.07814) [github](https://github.com/google-deepmind/code_contests)
+ * **Competition-level code generation with alphacode** [Science 2022] [pdf](https://arxiv.org/pdf/2203.07814) [github](https://github.com/google-deepmind/code_contests)
 
    * Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals
    * Google-DeepMind
@@ -497,7 +497,7 @@
   * Luyu Gao, Zhuyun Dai, Panupong Pasupat, Anthony Chen, Arun Tejasvi Chaganty, Yicheng Fan, Vincent Zhao, Ni Lao, Hongrae Lee, Da-Cheng Juan, Kelvin Guu
   * Carnegie Mellon University , Google Research, UC Irvine
 
-* **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback** [arxiv 2005.10] [pdf](https://arxiv.org/pdf/2005.10636)
+* **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback** [ICML 2020] [pdf](https://arxiv.org/pdf/2005.10636)
 
   * Michihiro Yasunaga, Percy Liang
 
@@ -671,7 +671,7 @@
   * Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, John D Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust
   * Google DeepMind
 
-* **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [arxiv 2023.5] [pdf](https://arxiv.org/pdf/2305.10601) [github](https://github.com/princeton-nlp/tree-of-thought-llm)
+* **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [NeurIPS 2023] [pdf](https://arxiv.org/pdf/2305.10601) [github](https://github.com/princeton-nlp/tree-of-thought-llm)
 
   * Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
   * Princeton University  Google DeepMind  Princeton University
@@ -707,34 +707,42 @@
   * University College London ,Shanghai Jiao Tong University ,Carnegie Mellon University
 
 * **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [arxiv 2024.8] [pdf](https://arxiv.org/pdf/2408.06195) [github](https://github.com/zhentingqi/rStar)
+
   * Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
   * Microsoft Research Asia , Harvard University
 
 * **Interpretable Contrastive Monte Carlo Tree Search Reasoning** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.01707) [github](https://github.com/zitian-gao/SC-MCTS)
+
   * Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
   * 1The University of Sydney 2Peking University 3Xiaohongshu Inc. 4Shanghai AI Laboratory
     5Tsinghua University 6The Hong Kong University of Science and Technology
     7The Hong Kong University of Science and Technology (Guangzhou)
+
 * **ReST-MCTS: LLM Self-Training via Process Reward Guided Tree Search** [arxiv 2024.6] [pdf ](https://arxiv.org/pdf/2406.03816) [github](https://github.com/THUDM/ReST-MCTS)
+
   * Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
   * The Knowledge Engineering Group (KEG), Tsinghua University; California Institute of Technology
+
 * **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning** [arxiv 2024.5] [pdf](https://arxiv.org/pdf/2405.00451) [github](https://github.com/YuxiXie/MCTS-DPO)
+
   * Yuxi Xie, Anirudh Goyal, Wenyue Zheng, Min-Yen Kan, Timothy P. Lillicrap, Kenji Kawaguchi, Michael Shieh
   * National University of Singapore; Google DeepMind
 
 * **O1 Replication Journey: A Strategic Progress Report -- Part 1** [arxiv 2024.10] [pdf](https://arxiv.org/pdf/2410.18982) [github](https://github.com/GAIR-NLP/O1-Journey)
+
   * Yiwei Qin, Xuefeng Li, Haoyang Zou, Yixiu Liu, Shijie Xia, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu
   * Shanghai Jiao Tong University, New York University,
     MBZUAI, Generative AI Research Lab (GAIR)
 
 * **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions** [arxiv 2024.11] [pdf](https://arxiv.org/pdf/2411.14405) [github](https://github.com/AIDC-AI/Marco-o1)
+
   * Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang
   * MarcoPolo Team, Alibaba International Digital Commerce
 
 * **o1-Coder: an o1 Replication for Coding** [arxiv 2024.12] [pdf](https://arxiv.org/pdf/2412.00154) [github](https://github.com/ADaM-BJTU/o1-coder)
+
   * Yuxiang Zhang, Shangxi Wu, Yuqi Yang, Jiangming Shu, Jinlin Xiao, Chao Kong, Jitao Sang
   * School of Computer Science and Technology , Beijing Jiaotong University
-
 
 
 

@@ -74,6 +74,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 
 ## Test-time Reasoning
 ### Feedback Modeling
+#### Score-based
 * **Training Verifiers to Solve Math Word Problems** [arxiv 2021.10] [paper](https://arxiv.org/pdf/2110.14168)
 * **Advancing LLM Reasoning Generalists with Preference Trees** [arxiv 2024.4] [paper](https://arxiv.org/pdf/2404.02078) [code](https://github.com/OpenBMB/Eurus)
 * **V-STaR: Training Verifiers for Self-Taught Reasoners** [COLM 2024] [paper](https://openreview.net/pdf?id=stmqBSW2dV)
@@ -86,6 +87,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **Improving Reward Models with Synthetic Critiques** [arxiv 2024.5] [paper](https://arxiv.org/pdf/2405.20850)
 * **Generative Verifiers: Reward Modeling as Next-Token Prediction** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.15240)
 * **Self-Generated Critiques Boost Reward Modeling for Language Models** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.16646)
+#### Verbal-based
 * **Is ChatGPT a Good NLG Evaluator? A Preliminary Study** [ACL 2023] [paper](https://aclanthology.org/2023.newsum-1.1.pdf) [code](https://github.com/krystalan/chatgpt_as_nlg_evaluator)
 * **ChatGPT as a Factual Inconsistency Evaluator for Text Summarization** [arxiv 2023.3] [paper](https://arxiv.org/pdf/2303.15621) 
 * **G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment** [ACL 2023] [pdf ](https://aclanthology.org/2023.emnlp-main.153.pdf) [code](https://github.com/nlpyang/geval)
@@ -104,6 +106,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
    
 
 ### Search Strategies
+#### Repeated sampling
 * **Competition-level code generation with alphacode** [Science 2022] [paper](https://arxiv.org/pdf/2203.07814) [code](https://github.com/google-deepmind/code_contests)
 * **Code Llama: Open Foundation Models for Code** [arxiv 2023.8] [paper](https://arxiv.org/pdf/2308.12950) [code](https://github.com/meta-llama/codellama)
 * **More Agents Is All You Need** [arxiv 2024.2] [paper](https://arxiv.org/pdf/2402.05120) [code](https://github.com/MoreAgentsIsAllYouNeed/AgentForest)
@@ -125,6 +128,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling** [NeurIps 2024] [paper](https://openreview.net/pdf?id=haSKMlrbX5)
 * **BOND: Aligning LLMs with Best-of-N Distillation** [arxiv 2024.7] [paper](https://arxiv.org/pdf/2407.14622)
 * **Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models** [arxiv 2024.12] [paper](https://arxiv.org/pdf/2412.15287)
+#### Self-correction
 * **Reflexion: Language Agents with Verbal Reinforcement Learning** [arxiv 2023.3] [paper](https://arxiv.org/pdf/2303.11366) [code](https://github.com/noahshinn/reflexion)
 * **Interscript: A dataset for interactive learning of scripts through error feedback** [arxiv 2021.12] [paper](https://arxiv.org/pdf/2112.07867) [code](https://github.com/allenai/interscript)
 * **NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction** [ACL 2021] [paper](https://aclanthology.org/2021.naacl-main.444.pdf) [code](https://github.com/MSR-LIT/NLEdit/)
@@ -167,6 +171,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements** [arxiv 2024.2] [paper](https://arxiv.org/pdf/2402.10963) 
 * **Generating Sequences by Learning to Self-Correct** [ICLR 2023] [paper](https://openreview.net/pdf?id=hH36JeQZDaO) [code](https://github.com/wellecks/self_correction)
 * **Training Language Models to Self-Correct via Reinforcement Learning** [arxiv 2024.9] [paper](https://arxiv.org/pdf/2409.12917)
+#### Tree search
 * **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [NeurIPS 2023] [paper](https://arxiv.org/pdf/2305.10601) [code](https://github.com/princeton-nlp/tree-of-thought-llm)
 * **Self-Evaluation Guided Beam Search for Reasoning** [NeurIPS 2023] [paper](https://openreview.net/pdf?id=Bw82hwg5Q3) [code](https://github.com/YuxiXie/SelfEval-Guided-Decoding)
 * **Reasoning with Language Model is Planning with World Model** [EMNLP 2023] [paper](https://aclanthology.org/2023.emnlp-main.507.pdf) [code](https://github.com/maitrix-org/llm-reasoners)

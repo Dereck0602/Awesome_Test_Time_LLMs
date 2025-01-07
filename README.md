@@ -149,7 +149,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting** [IREC 2024] [paper](https://aclanthology.org/2024.lrec-main.265.pdf)
 * **Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment** [arxiv 2023.11] [paper](https://arxiv.org/pdf/2311.08596)
 * **MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate** [arxiv 2024.6] [paper](https://arxiv.org/pdf/2406.14711) 
-* **Teaching Models to Balance Resisting and Accepting Persuasion** [arxiv 2024.10] [paper][https://arxiv.org/pdf/2410.14596] [code](https://github.com/esteng/persuasion_balanced_training)
+* **Teaching Models to Balance Resisting and Accepting Persuasion** [arxiv 2024.10] [paper]([https://arxiv.org/pdf/2410.14596]) [code](https://github.com/esteng/persuasion_balanced_training)
 * **GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion** [arxiv 2024.9] [paper](https://arxiv.org/pdf/2409.14051)
 * **Improving Multi-Agent Debate with Sparse Communication Topology** [arxiv 2024.6] [paper](https://arxiv.org/pdf/2406.11776)
 * **Self-Rewarding Language Models** [arxiv 2024.1] [paper](https://arxiv.org/pdf/2401.10020)

@@ -4,6 +4,10 @@
 
 This repository contains the resources for [*Test-time Computing: from System-1 Thinking to System-2 Thinking*](https://arxiv.org/abs/2501.02497)
 
+## Overview of Test-time Computing:
+
+![Overview of Test-time Computing](taxonomy.jpg)
+
 ## Test-time Adaptation
 ### Updating the Model
 * **Test-Time Training with Self-Supervision for Generalization under Distribution Shifts** [ICML 2020] [paper](https://arxiv.org/pdf/1909.13231)

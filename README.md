@@ -137,7 +137,7 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **Teaching Large Language Models to Self-Debug** [ICLR 2024] [paper](https://openreview.net/pdf?id=KuPixIqPiq)
 * **RARR: Researching and Revising What Language Models Say, Using Language Models** [ACL 2023] [paper](https://aclanthology.org/2023.acl-long.910.pdf) [code](https://github.com/anthonywchen/RARR)
 * **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback** [ICML 2020] [paper](https://arxiv.org/pdf/2005.10636)
-* **Improving Factuality and Reasoning in Language Models through Multiagent Debate** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.14325) [Project website](https://arxiv.org/pdf/2305.14325)
+* **Improving Factuality and Reasoning in Language Models through Multiagent Debate** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.14325) [code](https://github.com/composable-models/llm_multiagent_debate)
 * **Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate** [EMNLP 2023] [paper](https://aclanthology.org/2023.findings-emnlp.508.pdf) [code](https://github.com/Waste-Wood/FORD)
 * **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.19118) [code](https://github.com/Skytliang/Multi-Agents-Debate)
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs** [ACL 2024] [paper](https://aclanthology.org/2024.acl-long.381.pdf) [code](https://github.com/dinobby/ReConcile)

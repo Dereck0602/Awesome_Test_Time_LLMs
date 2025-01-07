@@ -6,7 +6,7 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 ## Overview of Test-time Computing:
 
-![Overview of Test-time Computing](taxonomy.png)
+![Overview of Test-time Computing](taxonomy.jpg)
 
 ## Test-time Adaptation
 ### Updating the Model

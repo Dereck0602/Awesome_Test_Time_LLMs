@@ -2,7 +2,7 @@
 <h1>Awesome Test-time Computing</h1>
 </div>
 
-This repository contains the resources for **_Test-time Computing: from System-1 Thinking to System-2 Thinking_**
+This repository contains the resources for [*Test-time Computing: from System-1 Thinking to System-2 Thinking*](https://arxiv.org/abs/2501.02497)
 
 ## Test-time Adaptation
 ### Updating the Model
@@ -193,21 +193,41 @@ This repository contains the resources for **_Test-time Computing: from System-1
 * **DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging** [EMNLP 2024] [paper](https://arxiv.org/pdf/2407.01470) [code](https://github.com/MiuLab/DogeRM)
 * **Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs** [NeurIPS 2024] [paper](https://arxiv.org/pdf/2406.10216) [code](https://github.com/YangRui2015/Generalizable-Reward-Model)
 * **Generalizing Reward Modeling for Out-of-Distribution Preference Learning** [ECML-PKDD 2024] [paper](https://arxiv.org/pdf/2402.14760) [code](https://github.com/jiachenwestlake/OODPL)
-* **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** [arxiv 2023.12.24] [paper](https://arxiv.org/pdf/2312.09390)
+* **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** [arxiv 2023.12] [paper](https://arxiv.org/pdf/2312.09390)
 ### Multimodal Reasoning
 * **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [ICLR 2024] [paper](https://arxiv.org/pdf/2305.18010) [code](https://github.com/lil-lab/bandit-qa)
 * **Multimodal Chain-of-Thought Reasoning in Language Models** [TMLR 2024] [paper](https://arxiv.org/pdf/2302.00923) [code](https://github.com/amazon-science/mm-cot)
 * **Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models** [NeurIPS 2024] [paper](https://arxiv.org/pdf/2404.03622)
 * **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning** [AAAI 2024] [paper](https://arxiv.org/pdf/2401.12863)
 * **Multimodal Reasoning with Multimodal Knowledge Graph** [ACL 2024] [paper](https://arxiv.org/pdf/2406.02030)
-* **Interleaved-Modal Chain-of-Thought** [arxiv 2024.11.29] [paper](https://arxiv.org/pdf/2411.19488)
-* **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [arxiv 2024.11.25] [paper](https://arxiv.org/pdf/2411.10440) [code](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+* **Interleaved-Modal Chain-of-Thought** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.19488)
+* **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.10440) [code](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 ### Efficiency and Performance Trade-off
-* **Learning How Hard to Think: Input-Adaptive Allocation of LM Computation** [arxiv 2024.10.7] [paper](https://arxiv.org/pdf/2410.04707)
-* **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10.29] [paper](https://arxiv.org/pdf/2410.22480) [code](https://github.com/LeiLiLab/OSCA)
+* **Learning How Hard to Think: Input-Adaptive Allocation of LM Computation** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.04707)
+* **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.22480) [code](https://github.com/LeiLiLab/OSCA)
 * **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [EMNLP 2024] [paper](https://arxiv.org/pdf/2406.06461)
-* **Token-Budget-Aware LLM Reasoning** [arxiv 2024.12.30] [paper](https://arxiv.org/pdf/2412.18547) [code](https://github.com/GeniusHTX/TALE)
-* **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations** [arxiv 2024.12.17] [paper](https://arxiv.org/pdf/2412.13171)
-### Unified Scaling Law
-* **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [arxiv 2024.9.16] [paper](https://arxiv.org/pdf/2407.21787)
-* **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [arxiv 2024.8.6] [paper](https://arxiv.org/pdf/2408.03314)
+* **Token-Budget-Aware LLM Reasoning** [arxiv 2024.12] [paper](https://arxiv.org/pdf/2412.18547) [code](https://github.com/GeniusHTX/TALE)
+* **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations** [arxiv 2024.12] [paper](https://arxiv.org/pdf/2412.13171)
+### Scaling Law
+* **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [arxiv 2024.9] [paper](https://arxiv.org/pdf/2407.21787)
+* **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.03314)
+* **Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2408.00724) [code](https://github.com/thu-wyz/inference_scaling)
+* **A Simple and Provable Scaling Law for the Test-Time Compute of Large Language Models** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.19477)
+### Strategy Combination
+* **The Surprising Effectiveness of Test-Time Training for Abstract Reasoning** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.07279) [code](https://github.com/ekinakyurek/marc)
+* **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.14405) [code](https://github.com/AIDC-AI/Marco-o1)
+* **Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.18478)
+
+## Reference
+If our survey is helpful to your research, please cite our paper:
+```
+@misc{ji2025testtimecomputingsystem1thinking,
+      title={Test-time Computing: from System-1 Thinking to System-2 Thinking}, 
+      author={Yixin Ji and Juntao Li and Hai Ye and Kaixin Wu and Jia Xu and Linjian Mo and Min Zhang},
+      year={2025},
+      eprint={2501.02497},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2501.02497}, 
+}
+```

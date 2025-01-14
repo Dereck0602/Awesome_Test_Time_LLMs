@@ -143,7 +143,7 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 * **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback** [ICML 2020] [paper](https://arxiv.org/pdf/2005.10636)
 * **Improving Factuality and Reasoning in Language Models through Multiagent Debate** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.14325) [code](https://github.com/composable-models/llm_multiagent_debate)
 * **Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate** [EMNLP 2023] [paper](https://aclanthology.org/2023.findings-emnlp.508.pdf) [code](https://github.com/Waste-Wood/FORD)
-* **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.19118) [code](https://github.com/Skytliang/Multi-Agents-Debate)
+* **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate** [EMNLP 2024] [paper](https://arxiv.org/pdf/2305.19118) [code](https://github.com/Skytliang/Multi-Agents-Debate)
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs** [ACL 2024] [paper](https://aclanthology.org/2024.acl-long.381.pdf) [code](https://github.com/dinobby/ReConcile)
 * **Mixture-of-Agents Enhances Large Language Model Capabilities** [arxiv 2024.6] [paper](https://arxiv.org/pdf/2406.04692) [code](https://github.com/togethercomputer/moa)
 * **Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate** [arxiv 2024.7] [paper](https://arxiv.org/pdf/2402.07401)
@@ -225,13 +225,10 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 ## Reference
 If our survey is helpful to your research, please cite our paper:
 ```
-@misc{ji2025testtimecomputingsystem1thinking,
-      title={Test-time Computing: from System-1 Thinking to System-2 Thinking}, 
-      author={Yixin Ji and Juntao Li and Hai Ye and Kaixin Wu and Jia Xu and Linjian Mo and Min Zhang},
-      year={2025},
-      eprint={2501.02497},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2501.02497}, 
+@article{ji2025test,
+  title={Test-time Computing: from System-1 Thinking to System-2 Thinking},
+  author={Ji, Yixin and Li, Juntao and Ye, Hai and Wu, Kaixin and Xu, Jia and Mo, Linjian and Zhang, Min},
+  journal={arXiv preprint arXiv:2501.02497},
+  year={2025}
 }
 ```

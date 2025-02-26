@@ -15,7 +15,7 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 * **Modifying the Input**
 * **Editing the Representation**
 * **Calibrating the Output**
-### Test-time Reasoning
+### [Test-time Reasoning](#test-time-reasoning)
 * **Feedback Modeling**
    * **Score-based**
    * **Verbal-based**

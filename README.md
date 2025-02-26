@@ -101,14 +101,18 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 ## Test-time Reasoning
 ### Feedback Modeling
 #### Score-based
+* **Scaling Laws for Reward Model Overoptimization** [PMLR 2023] [paper](https://arxiv.org/pdf/2210.10760)
 * **Training Verifiers to Solve Math Word Problems** [arxiv 2021.10] [paper](https://arxiv.org/pdf/2110.14168)
 * **Advancing LLM Reasoning Generalists with Preference Trees** [arxiv 2024.4] [paper](https://arxiv.org/pdf/2404.02078) [code](https://github.com/OpenBMB/Eurus)
 * **V-STaR: Training Verifiers for Self-Taught Reasoners** [COLM 2024] [paper](https://openreview.net/pdf?id=stmqBSW2dV)
 * **Solving math word problems with process- and outcome-based feedback** [arxiv 2022.11] [paper](https://arxiv.org/pdf/2211.14275)
 * **Let's Verify Step by Step** [ICLR 2024] [paper](https://openreview.net/pdf?id=v8L0pN6EOi) [code](https://github.com/openai/prm800k)
+* **Entropy-Regularized Process Reward Model** [arxiv 2024.12](https://arxiv.org/pdf/2412.11006) [code](https://github.com/hanningzhang/ER-PRM)
 * **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations** [ACL 2024] [paper](https://aclanthology.org/2024.acl-long.510.pdf)
 * **Improve Mathematical Reasoning in Language Models by Automated Process Supervision** [arxiv 20224.6] [paper](https://arxiv.org/pdf/2406.06592)
 * **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning** [arxiv 20224.10] [paper](https://arxiv.org/pdf/2410.08146)
+* **AutoPSV: Automated Process-Supervised Verifier** [NeurIPS 2024] [paper](https://openreview.net/pdf?id=eOAPWWOGs9) [code](https://openreview.net/pdf?id=eOAPWWOGs9)
+* **Free Process Rewards without Process Labels** [arxiv 2024.12] [paper](https://arxiv.org/pdf/2412.01981) [code](https://github.com/PRIME-RL/ImplicitPRM)
 * **Critique-out-Loud Reward Models** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.11791) [code](https://github.com/zankner/CLoud)
 * **Improving Reward Models with Synthetic Critiques** [arxiv 2024.5] [paper](https://arxiv.org/pdf/2405.20850)
 * **Generative Verifiers: Reward Modeling as Next-Token Prediction** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.15240)
@@ -200,6 +204,8 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 * **Self-Evaluation Guided Beam Search for Reasoning** [NeurIPS 2023] [paper](https://openreview.net/pdf?id=Bw82hwg5Q3) [code](https://github.com/YuxiXie/SelfEval-Guided-Decoding)
 * **Reasoning with Language Model is Planning with World Model** [EMNLP 2023] [paper](https://aclanthology.org/2023.emnlp-main.507.pdf) [code](https://github.com/maitrix-org/llm-reasoners)
 * **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B** [arxiv 2024.6] [paper](https://arxiv.org/pdf/2406.07394) [code](https://github.com/trotsky1997/MathBlackBox)
+* **Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [arxiv 2025.2] [paper](https://arxiv.org/pdf/2412.09078) [code](https://github.com/iamhankai/Forest-of-Thought)
+* **Large Language Model Guided Tree-of-Thought** [arxiv 2023.5] [paper](https://arxiv.org/pdf/2305.08291) [code](https://github.com/jieyilong/tree-of-thought-puzzle-solver)
 * **Reasoning with Language Model is Planning with World Model** [EMNLP 2023] [paper](https://aclanthology.org/2023.emnlp-main.507.pdf) [code](https://github.com/maitrix-org/llm-reasoners)
 * **Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training** [arxiv 2023.9] [paper](https://arxiv.org/pdf/2309.17179)
 * **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.06195) [code](https://github.com/zhentingqi/rStar)

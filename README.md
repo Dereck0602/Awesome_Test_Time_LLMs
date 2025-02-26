@@ -8,6 +8,28 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 ![Overview of Test-time Computing](taxonomy.jpg)
 
+
+## Table of Contents
+### [Test-time Adaptation](#test-time-adaptation)
+* **Updating the Model**
+* **Modifying the Input**
+* **Editing the Representation**
+* **Calibrating the Output**
+### Test-time Reasoning
+* **Feedback Modeling**
+   * **Score-based**
+   * **Verbal-based**
+* **Search Strategies**
+   * **Repeated sampling**
+   * **Self-correction**
+   * **Tree search**
+### Future Directions
+* **Generalizable System-2 Model**
+* **Multimodal Reasoning**
+* **Efficiency and Performance Trade-off**
+* **Scaling Law**
+* **Strategy Combination**
+
 ## Test-time Adaptation
 ### Updating the Model
 * **Test-Time Training with Self-Supervision for Generalization under Distribution Shifts** [ICML 2020] [paper](https://arxiv.org/pdf/1909.13231)

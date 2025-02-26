@@ -219,10 +219,16 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 ##  Future Directions
 ### Generalizable System-2 Model
+* **A Baseline Analysis of Reward Models’ Ability To Accurately Analyze Foundation Models Under Distribution Shift** [arxiv 2023.10] [paper](https://export.arxiv.org/pdf/2311.14743v4)
+* **Evaluating Robustness of Reward Models for Mathematical Reasoning** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.01729)
+* **ODIN: Disentangled Reward Mitigates Hacking in RLHF** [ICML 2024] [paper](https://openreview.net/pdf?id=zcIV8OQFVF)
+* **Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts** [arxiv 2024.6] [paper](https://arxiv.org/pdf/2406.12845) [code](https://github.com/RLHFlow/RLHF-Reward-Modeling)
 * **DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging** [EMNLP 2024] [paper](https://arxiv.org/pdf/2407.01470) [code](https://github.com/MiuLab/DogeRM)
 * **Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs** [NeurIPS 2024] [paper](https://arxiv.org/pdf/2406.10216) [code](https://github.com/YangRui2015/Generalizable-Reward-Model)
 * **Generalizing Reward Modeling for Out-of-Distribution Preference Learning** [ECML-PKDD 2024] [paper](https://arxiv.org/pdf/2402.14760) [code](https://github.com/jiachenwestlake/OODPL)
 * **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** [arxiv 2023.12] [paper](https://arxiv.org/pdf/2312.09390)
+* **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models** [EMNLP 2023] [paper](https://aclanthology.org/2023.emnlp-main.407.pdf) [code](https://github.com/deepakn97/MAF/tree/main)
+* **Training language models to follow instructions with human feedback** [arxiv 2022.3] [paper](https://arxiv.org/pdf/2203.02155)
 ### Multimodal Reasoning
 * **Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models** [ICLR 2024] [paper](https://arxiv.org/pdf/2305.18010) [code](https://github.com/lil-lab/bandit-qa)
 * **Multimodal Chain-of-Thought Reasoning in Language Models** [TMLR 2024] [paper](https://arxiv.org/pdf/2302.00923) [code](https://github.com/amazon-science/mm-cot)

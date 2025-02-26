@@ -10,7 +10,7 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 
 ## Table of Contents
-### [T](#test-time-adaptation)
+* **[Test-time Adaptation](#test-time-adaptation)**
 * **Updating the Model**
 * **Modifying the Input**
 * **Editing the Representation**

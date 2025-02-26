@@ -11,24 +11,24 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 ## Table of Contents
 * **[Test-time Adaptation](#test-time-adaptation)**
-* **Updating the Model**
-* **Modifying the Input**
-* **Editing the Representation**
-* **Calibrating the Output**
-### [Test-time Reasoning](#test-time-reasoning)
-* **Feedback Modeling**
-   * **Score-based**
-   * **Verbal-based**
-* **Search Strategies**
-   * **Repeated sampling**
-   * **Self-correction**
-   * **Tree search**
-### Future Directions
-* **Generalizable System-2 Model**
-* **Multimodal Reasoning**
-* **Efficiency and Performance Trade-off**
-* **Scaling Law**
-* **Strategy Combination**
+  * **[Updating the Model](#updating-the-model)**
+  * **[Modifying the Input](#modifying-the-input)**
+  * **[Editing the Representation](#editing-the-representation)**
+  * **[Calibrating the Output](#calibrating-the-output)**
+* **[Test-time Reasoning](#test-time-reasoning)**
+  * **[Feedback Modeling](#feedback-modeling)**
+    * **[Score-based](#score-based)**
+    * **[Verbal-based](#verbal-based)**
+  * **[Search Strategies](#search-strategies)**
+    * **[Repeated sampling](#repeated-sampling)**
+    * **[Self-correction](#self-correction)**
+    * **[Tree search](#tree-search)**
+* **[Future Directions](#future-directions)**
+  * **[Generalizable System-2 Model](#generalizable-system-2-model)**
+  * **[Multimodal Reasoning](#multimodal-reasoning)**
+  * **[Efficiency and Performance Trade-off](#efficiency-and-performance-trade-off)**
+  * **[Scaling Law](#scaling-law)**
+  * **[Strategy Combination](#strategy-combination)**
 
 ## Test-time Adaptation
 ### Updating the Model

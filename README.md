@@ -32,6 +32,7 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 
 ## Test-time Adaptation
 ### Updating the Model
+* **Learning to Reason from Feedback at Test-Time** [arxiv 2025.2] [paper](https://arxiv.org/abs/2502.15771) [code](https://github.com/LaVi-Lab/FTTT)
 * **Test-Time Training with Self-Supervision for Generalization under Distribution Shifts** [ICML 2020] [paper](https://arxiv.org/pdf/1909.13231)
 * **MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption** [AISTATS 2022] [paper](https://arxiv.org/pdf/2103.16201) [code](https://github.com/AlexanderBartler/MT3)
 * **Test-Time Training with Masked Autoencoders** [NeurIPS 2022] [paper](https://arxiv.org/pdf/2209.07522)

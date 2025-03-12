@@ -2,7 +2,14 @@
 <h1>Awesome Test-time Computing</h1>
 </div>
 
-This repository contains the resources for [*Test-time Computing: from System-1 Thinking to System-2 Thinking*](https://arxiv.org/abs/2501.02497)
+This repository contains the resources for [*Test-time Compute: from System-1 Thinking to System-2 Thinking*](https://arxiv.org/abs/2501.02497)
+
+## Updating
+* [3/3/2025] We have updated our survey and released the second version on arXiv.
+  * We have added more latest papers until 1/2/2025.
+  * We have added a section to introduce benchmarks and open-source frameworks for test-time compute.
+  * We have added discussions about different test-time compute methods.
+* [5/1/2025] We have released the first version of our survey on arXiv. 
 
 ## Overview of Test-time Computing:
 
@@ -61,6 +68,9 @@ This repository contains the resources for [*Test-time Computing: from System-1 
 * **Towards Stable Test-time Adaptation in Dynamic Wild World** [ICLR 2023] [paper](https://arxiv.org/pdf/2302.12400) [code](https://github.com/mr-eggplant/SAR)
 * **SoTTA: Robust Test-Time Adaptation on Noisy Data Streams** [NeurIPS 2023] [paper](https://arxiv.org/pdf/2310.10074) [code](https://github.com/taeckyung/SoTTA)
 * **Robust Question Answering against Distribution Shifts with Test-Time Adaption: An Empirical Study** [EMNLP 2022] [paper](https://aclanthology.org/2022.findings-emnlp.460.pdf) [code](https://github.com/oceanypt/coldqa-tta)
+* **Test-Time Training on Nearest Neighbors for Large Language Models** [ICLR 2024] [paper](https://openreview.net/forum?id=CNL2bku4ra) [code](https://github.com/socialfoundations/tttlm)
+* **With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation** [COLM 2024] [paper](https://openreview.net/forum?id=dj9x6JuiD5)
+* **Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs** [ICLR 2025] [paper](https://openreview.net/forum?id=NS1G1Uhny3) [code](https://github.com/jonhue/activeft)
 ### Modifying the Input
 * **What Makes Good In-Context Examples for GPT-3?** [DeeLIO 2022] [paper](https://aclanthology.org/2022.deelio-1.10.pdf) 
 * **In-Context Learning with Iterative Demonstration Selection** [EMNLP 2024] [paper](https://aclanthology.org/2024.findings-emnlp.438.pdf) 

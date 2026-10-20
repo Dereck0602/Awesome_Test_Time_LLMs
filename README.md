@@ -254,6 +254,7 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.22480) [code](https://github.com/LeiLiLab/OSCA)
 * **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs** [arxiv 2025.2] [paper](https://arxiv.org/pdf/2412.21187)
 * **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies** [EMNLP 2024] [paper](https://arxiv.org/pdf/2406.06461)
+* **Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation** [ICLR 2026] [paper](https://arxiv.org/abs/2510.04265) [code](https://github.com/mohsenhariri/scorio)
 * **Prometheus: Inducing Fine-Grained Evaluation Capability in Language Models** [ICLR 2024] [paper](https://openreview.net/pdf?id=8euJaTveKw)
 * **MoDE-CoTD: Chain-of-Thought Distillation for Complex Reasoning Tasks with Mixture of Decoupled LoRA-Experts** [ACL 2024] [paper](https://aclanthology.org/2024.lrec-main.1003.pdf)
 * **Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning** [arxiv 2025.2] [paper](https://arxiv.org/pdf/2501.03035)

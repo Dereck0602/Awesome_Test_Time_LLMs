@@ -110,9 +110,9 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **kNN-NER: Named Entity Recognition with Nearest Neighbor Search** [arxiv 2022.3] [paper](https://arxiv.org/pdf/2203.17103) [code](https://github.com/ShannonAI/KNN-NER.)
 * **kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers** [EMNLP 2023] [paper](https://aclanthology.org/2023.findings-emnlp.903.pdf) [code](https://github.com/Bhardwaj-Rishabh/kNN-CM)
 * **AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation** [ICML 2023] [paper](https://arxiv.org/pdf/2304.12566) [code](https://github.com/yfzhang114/AdaNPC)
+* **FreeRet: MLLMs as Training-Free Retrievers** [ICML 2026] [paper](https://proceedings.mlr.press/v306/zhu26ba.html) [code](https://github.com/MCG-NJU/FreeRet)
 
 ## Test-time Reasoning
-* **FreeRet: MLLMs as Training-Free Retrievers** [ICML 2026] [paper](https://proceedings.mlr.press/v306/zhu26ba.html) [code](https://github.com/MCG-NJU/FreeRet)
 
 ### Feedback Modeling
 #### Score-based

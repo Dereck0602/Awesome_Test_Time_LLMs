@@ -44,7 +44,7 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption** [AISTATS 2022] [paper](https://arxiv.org/pdf/2103.16201) [code](https://github.com/AlexanderBartler/MT3)
 * **Test-Time Training with Masked Autoencoders** [NeurIPS 2022] [paper](https://arxiv.org/pdf/2209.07522)
 * **TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?** [NeurIPS 2021] [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf) [code](https://github.com/vita-epfl/ttt-plus-plus)
-* **Efficient Test-Time Prompt Tuning for Vision-Language Models** [arxiv 2024.8] [paper](https://arxiv.org/pdf/2408.05775)
+* **Efficient Test-Time Prompt Tuning for Vision-Language Models** [IJCV 2026] [paper](https://arxiv.org/abs/2408.05775) [journal](https://link.springer.com/article/10.1007/s11263-026-03019-3)
 * **Tent: Fully Test-time Adaptation by Entropy Minimization** [ICLR 2021] [paper](https://arxiv.org/pdf/2006.10726) [code](https://github.com/vita-epfl/ttt-plus-plus)
 * **MEMO: Test Time Robustness via Adaptation and Augmentation** [NeurIPS 2022] [paper](https://arxiv.org/pdf/2110.09506) [code](https://github.com/zhangmarvin/memo)
 * **The Entropy Enigma: Success and Failure of Entropy Minimization** [arxiv 2024.5] [paper](https://arxiv.org/pdf/2405.05012) [code](https://github.com/oripress/EntropyEnigma)
@@ -88,6 +88,8 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations** [ACL 2023] [paper](https://aclanthology.org/2023.acl-long.129.pdf) 
 * **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator** [arxiv 2022.6] [paper](https://arxiv.org/pdf/2206.08082) 
 * **Demonstration Augmentation for Zero-shot In-context Learning** [ACL 2024] [paper](https://aclanthology.org/2024.findings-acl.846.pdf) [code](https://github.com/yisunlp/DAIL)
+* **AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation** [NeurIPS 2024] [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [code](https://github.com/MCG-NJU/AWT)
+
 ### Editing the Representation
 * **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** [ICLR 2022] [paper](https://arxiv.org/pdf/1912.02164)
 * **Steering Language Models With Activation Engineering** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2308.10248) 
@@ -110,6 +112,8 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation** [ICML 2023] [paper](https://arxiv.org/pdf/2304.12566) [code](https://github.com/yfzhang114/AdaNPC)
 
 ## Test-time Reasoning
+* **FreeRet: MLLMs as Training-Free Retrievers** [ICML 2026] [paper](https://proceedings.mlr.press/v306/zhu26ba.html) [code](https://github.com/MCG-NJU/FreeRet)
+
 ### Feedback Modeling
 #### Score-based
 * **Scaling Laws for Reward Model Overoptimization** [PMLR 2023] [paper](https://arxiv.org/pdf/2210.10760)
@@ -249,6 +253,8 @@ This repository contains the resources for [*Test-time Compute: from System-1 Th
 * **Interleaved-Modal Chain-of-Thought** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.19488)
 * **LLaVA-Critic: Learning to Evaluate Multimodal Models** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.02712)
 * **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [arxiv 2024.11] [paper](https://arxiv.org/pdf/2411.10440) [code](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+* **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning** [ICML 2026] [paper](https://proceedings.mlr.press/v306/zeng26y.html) [code](https://github.com/MCG-NJU/Video-o3)
+
 ### Efficiency and Performance Trade-off
 * **Learning How Hard to Think: Input-Adaptive Allocation of LM Computation** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.04707)
 * **Scaling LLM Inference with Optimized Sample Compute Allocation** [arxiv 2024.10] [paper](https://arxiv.org/pdf/2410.22480) [code](https://github.com/LeiLiLab/OSCA)
